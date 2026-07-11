@@ -5,7 +5,7 @@
 [11_millions_updates_deletes.zip](https://github.com/user-attachments/files/29927210/11_millions_updates_deletes.zip),
 [10_ultra_one_million_files.zip](https://github.com/user-attachments/files/29927209/10_ultra_one_million_files.zip),
 [09_many_large_parquet_sales.zip](https://github.com/user-attachments/files/29927208/09_many_large_parquet_sales.zip),
-[08_many_small_parquet_multiple_tables.zip](https://github.com/user-attachments/files/29927207/08_many_small_parquet_multiple_tables.zip,
+[08_many_small_parquet_multiple_tables.zip](https://github.com/user-attachments/files/29927207/08_many_small_parquet_multiple_tables.zip),
 [07_many_small_parquet_transaction.zip](https://github.com/user-attachments/files/29927206/07_many_small_parquet_transaction.zip),
 [06_many_large_csv_emp.zip](https://github.com/user-attachments/files/29927205/06_many_large_csv_emp.zip),
 [05_many_small_csv_multiple_tables.zip](https://github.com/user-attachments/files/29927204/05_many_small_csv_multiple_tables.zip),
