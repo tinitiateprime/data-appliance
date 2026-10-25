@@ -64,6 +64,11 @@ This is a synthetic file-volume exercise. Branch/product/collateral populations 
 
 ## Schema and validation
 
+The [ddl folder](ddl/) contains one PostgreSQL SQL file per table, such as
+[customers.sql](ddl/customers.sql) and [accounts.sql](ddl/accounts.sql).
+Each file creates its table in both `banking_large` and `banking_small`.
+Follow the [execution order](ddl/README.md) so parent tables exist before foreign keys are created.
+
 - [Large-layout PostgreSQL DDL](schema_large.sql): `banking_large` schema.
 - [Small-layout PostgreSQL DDL](schema_small.sql): `banking_small` schema.
 - [Rendered Mermaid ER diagram](ERD.md) and [diagram source](erd.mmd).
