@@ -2,6 +2,9 @@
 
 All **16 banking tables** have separate `large` and `small` file sets in CSV, newline-delimited JSON and Parquet.
 
+To recreate the files, use the [Python generator scripts and run instructions](scripts/README.md).
+There is one generator per table, plus `generate_all_small.py` and `generate_all_large.py`.
+
 | Layout | Files per table per format | Rows per file | Rows per table per format |
 |---|---:|---:|---:|
 | [large](large/) | 10 | 100,000 | 1,000,000 |

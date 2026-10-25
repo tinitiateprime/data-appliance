@@ -1,0 +1,4 @@
+scripts/.venv/
+scripts/__pycache__/
+generated_*/
+csv_exercise/
