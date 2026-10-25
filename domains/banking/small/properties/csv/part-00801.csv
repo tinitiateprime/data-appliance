@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+8011,8011 Example Property Road,Sacramento,CA,401100.00
+8012,8012 Example Property Road,New York,NY,401200.00
+8013,8013 Example Property Road,Chicago,IL,401300.00
+8014,8014 Example Property Road,Austin,TX,401400.00
+8015,8015 Example Property Road,Sacramento,CA,401500.00
+8016,8016 Example Property Road,New York,NY,401600.00
+8017,8017 Example Property Road,Chicago,IL,401700.00
+8018,8018 Example Property Road,Austin,TX,401800.00
+8019,8019 Example Property Road,Sacramento,CA,401900.00
+8020,8020 Example Property Road,New York,NY,402000.00

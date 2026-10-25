@@ -1,0 +1,10 @@
+{"property_id": 1001, "address_line": "1001 Example Property Road", "city": "Chicago", "state_code": "IL", "appraised_value": 400100.0}
+{"property_id": 1002, "address_line": "1002 Example Property Road", "city": "Austin", "state_code": "TX", "appraised_value": 400200.0}
+{"property_id": 1003, "address_line": "1003 Example Property Road", "city": "Sacramento", "state_code": "CA", "appraised_value": 400300.0}
+{"property_id": 1004, "address_line": "1004 Example Property Road", "city": "New York", "state_code": "NY", "appraised_value": 400400.0}
+{"property_id": 1005, "address_line": "1005 Example Property Road", "city": "Chicago", "state_code": "IL", "appraised_value": 400500.0}
+{"property_id": 1006, "address_line": "1006 Example Property Road", "city": "Austin", "state_code": "TX", "appraised_value": 400600.0}
+{"property_id": 1007, "address_line": "1007 Example Property Road", "city": "Sacramento", "state_code": "CA", "appraised_value": 400700.0}
+{"property_id": 1008, "address_line": "1008 Example Property Road", "city": "New York", "state_code": "NY", "appraised_value": 400800.0}
+{"property_id": 1009, "address_line": "1009 Example Property Road", "city": "Chicago", "state_code": "IL", "appraised_value": 400900.0}
+{"property_id": 1010, "address_line": "1010 Example Property Road", "city": "Austin", "state_code": "TX", "appraised_value": 401000.0}

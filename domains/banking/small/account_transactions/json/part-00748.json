@@ -1,0 +1,10 @@
+{"transaction_id": 7481, "account_id": 2481, "transaction_date": "2024-06-19", "transaction_type": "DEPOSIT", "amount": 768.97, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7482, "account_id": 2482, "transaction_date": "2024-06-20", "transaction_type": "DEPOSIT", "amount": 769.34, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7483, "account_id": 2483, "transaction_date": "2024-06-21", "transaction_type": "DEPOSIT", "amount": 769.71, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7484, "account_id": 2484, "transaction_date": "2024-06-22", "transaction_type": "DEPOSIT", "amount": 770.08, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7485, "account_id": 2485, "transaction_date": "2024-06-23", "transaction_type": "DEPOSIT", "amount": 770.45, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7486, "account_id": 2486, "transaction_date": "2024-06-24", "transaction_type": "DEPOSIT", "amount": 770.82, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7487, "account_id": 2487, "transaction_date": "2024-06-25", "transaction_type": "DEPOSIT", "amount": 771.19, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7488, "account_id": 2488, "transaction_date": "2024-06-26", "transaction_type": "DEPOSIT", "amount": 771.56, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7489, "account_id": 2489, "transaction_date": "2024-06-27", "transaction_type": "DEPOSIT", "amount": 771.93, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7490, "account_id": 2490, "transaction_date": "2024-06-28", "transaction_type": "DEPOSIT", "amount": 772.3, "currency": "USD", "status": "POSTED"}

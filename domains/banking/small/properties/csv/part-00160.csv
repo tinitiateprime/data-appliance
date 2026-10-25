@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+1601,1601 Example Property Road,Chicago,IL,460100.00
+1602,1602 Example Property Road,Austin,TX,460200.00
+1603,1603 Example Property Road,Sacramento,CA,460300.00
+1604,1604 Example Property Road,New York,NY,460400.00
+1605,1605 Example Property Road,Chicago,IL,460500.00
+1606,1606 Example Property Road,Austin,TX,460600.00
+1607,1607 Example Property Road,Sacramento,CA,460700.00
+1608,1608 Example Property Road,New York,NY,460800.00
+1609,1609 Example Property Road,Chicago,IL,460900.00
+1610,1610 Example Property Road,Austin,TX,461000.00

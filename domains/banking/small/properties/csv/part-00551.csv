@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+5511,5511 Example Property Road,Sacramento,CA,451100.00
+5512,5512 Example Property Road,New York,NY,451200.00
+5513,5513 Example Property Road,Chicago,IL,451300.00
+5514,5514 Example Property Road,Austin,TX,451400.00
+5515,5515 Example Property Road,Sacramento,CA,451500.00
+5516,5516 Example Property Road,New York,NY,451600.00
+5517,5517 Example Property Road,Chicago,IL,451700.00
+5518,5518 Example Property Road,Austin,TX,451800.00
+5519,5519 Example Property Road,Sacramento,CA,451900.00
+5520,5520 Example Property Road,New York,NY,452000.00

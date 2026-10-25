@@ -1,0 +1,10 @@
+{"address_id": 1, "customer_id": 1, "address_line": "1 Fictional Training Lane", "city": "Chicago", "state_code": "IL", "postal_code": "10001"}
+{"address_id": 2, "customer_id": 2, "address_line": "2 Fictional Training Lane", "city": "Austin", "state_code": "TX", "postal_code": "10002"}
+{"address_id": 3, "customer_id": 3, "address_line": "3 Fictional Training Lane", "city": "Sacramento", "state_code": "CA", "postal_code": "10003"}
+{"address_id": 4, "customer_id": 4, "address_line": "4 Fictional Training Lane", "city": "New York", "state_code": "NY", "postal_code": "10004"}
+{"address_id": 5, "customer_id": 5, "address_line": "5 Fictional Training Lane", "city": "Chicago", "state_code": "IL", "postal_code": "10005"}
+{"address_id": 6, "customer_id": 6, "address_line": "6 Fictional Training Lane", "city": "Austin", "state_code": "TX", "postal_code": "10006"}
+{"address_id": 7, "customer_id": 7, "address_line": "7 Fictional Training Lane", "city": "Sacramento", "state_code": "CA", "postal_code": "10007"}
+{"address_id": 8, "customer_id": 8, "address_line": "8 Fictional Training Lane", "city": "New York", "state_code": "NY", "postal_code": "10008"}
+{"address_id": 9, "customer_id": 9, "address_line": "9 Fictional Training Lane", "city": "Chicago", "state_code": "IL", "postal_code": "10009"}
+{"address_id": 10, "customer_id": 10, "address_line": "10 Fictional Training Lane", "city": "Austin", "state_code": "TX", "postal_code": "10010"}

@@ -1,0 +1,10 @@
+{"payment_id": 1321, "loan_id": 1321, "due_date": "2024-02-01", "principal_amount": 644.72, "interest_amount": 1160.5, "status": "SCHEDULED"}
+{"payment_id": 1322, "loan_id": 1322, "due_date": "2024-02-01", "principal_amount": 200.0, "interest_amount": 72.0, "status": "SCHEDULED"}
+{"payment_id": 1323, "loan_id": 1323, "due_date": "2024-02-01", "principal_amount": 371.67, "interest_amount": 148.67, "status": "SCHEDULED"}
+{"payment_id": 1324, "loan_id": 1324, "due_date": "2024-02-01", "principal_amount": 645.56, "interest_amount": 1162.0, "status": "SCHEDULED"}
+{"payment_id": 1325, "loan_id": 1325, "due_date": "2024-02-01", "principal_amount": 208.33, "interest_amount": 75.0, "status": "SCHEDULED"}
+{"payment_id": 1326, "loan_id": 1326, "due_date": "2024-02-01", "principal_amount": 376.67, "interest_amount": 150.67, "status": "SCHEDULED"}
+{"payment_id": 1327, "loan_id": 1327, "due_date": "2024-02-01", "principal_amount": 646.39, "interest_amount": 1163.5, "status": "SCHEDULED"}
+{"payment_id": 1328, "loan_id": 1328, "due_date": "2024-02-01", "principal_amount": 216.67, "interest_amount": 78.0, "status": "SCHEDULED"}
+{"payment_id": 1329, "loan_id": 1329, "due_date": "2024-02-01", "principal_amount": 381.67, "interest_amount": 152.67, "status": "SCHEDULED"}
+{"payment_id": 1330, "loan_id": 1330, "due_date": "2024-02-01", "principal_amount": 647.22, "interest_amount": 1165.0, "status": "SCHEDULED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 2871, "account_id": 371, "transaction_date": "2025-11-08", "transaction_type": "WITHDRAWAL", "amount": -1063.27, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2872, "account_id": 372, "transaction_date": "2025-11-09", "transaction_type": "WITHDRAWAL", "amount": -1063.64, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2873, "account_id": 373, "transaction_date": "2025-11-10", "transaction_type": "WITHDRAWAL", "amount": -1064.01, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2874, "account_id": 374, "transaction_date": "2025-11-11", "transaction_type": "WITHDRAWAL", "amount": -1064.38, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2875, "account_id": 375, "transaction_date": "2025-11-12", "transaction_type": "WITHDRAWAL", "amount": -1064.75, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2876, "account_id": 376, "transaction_date": "2025-11-13", "transaction_type": "WITHDRAWAL", "amount": -1065.12, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2877, "account_id": 377, "transaction_date": "2025-11-14", "transaction_type": "WITHDRAWAL", "amount": -1065.49, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2878, "account_id": 378, "transaction_date": "2025-11-15", "transaction_type": "WITHDRAWAL", "amount": -1065.86, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2879, "account_id": 379, "transaction_date": "2025-11-16", "transaction_type": "WITHDRAWAL", "amount": -1066.23, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2880, "account_id": 380, "transaction_date": "2025-11-17", "transaction_type": "WITHDRAWAL", "amount": -1066.6, "currency": "USD", "status": "POSTED"}

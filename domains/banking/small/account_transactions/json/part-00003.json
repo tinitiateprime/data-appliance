@@ -1,0 +1,10 @@
+{"transaction_id": 31, "account_id": 31, "transaction_date": "2024-01-31", "transaction_type": "DEPOSIT", "amount": 12.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 32, "account_id": 32, "transaction_date": "2024-02-01", "transaction_type": "DEPOSIT", "amount": 12.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 33, "account_id": 33, "transaction_date": "2024-02-02", "transaction_type": "DEPOSIT", "amount": 13.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 34, "account_id": 34, "transaction_date": "2024-02-03", "transaction_type": "DEPOSIT", "amount": 13.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 35, "account_id": 35, "transaction_date": "2024-02-04", "transaction_type": "DEPOSIT", "amount": 13.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 36, "account_id": 36, "transaction_date": "2024-02-05", "transaction_type": "DEPOSIT", "amount": 14.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 37, "account_id": 37, "transaction_date": "2024-02-06", "transaction_type": "DEPOSIT", "amount": 14.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 38, "account_id": 38, "transaction_date": "2024-02-07", "transaction_type": "DEPOSIT", "amount": 15.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 39, "account_id": 39, "transaction_date": "2024-02-08", "transaction_type": "DEPOSIT", "amount": 15.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 40, "account_id": 40, "transaction_date": "2024-02-09", "transaction_type": "DEPOSIT", "amount": 15.8, "currency": "USD", "status": "POSTED"}

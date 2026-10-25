@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+7781,7781 Example Property Road,Chicago,IL,478100.00
+7782,7782 Example Property Road,Austin,TX,478200.00
+7783,7783 Example Property Road,Sacramento,CA,478300.00
+7784,7784 Example Property Road,New York,NY,478400.00
+7785,7785 Example Property Road,Chicago,IL,478500.00
+7786,7786 Example Property Road,Austin,TX,478600.00
+7787,7787 Example Property Road,Sacramento,CA,478700.00
+7788,7788 Example Property Road,New York,NY,478800.00
+7789,7789 Example Property Road,Chicago,IL,478900.00
+7790,7790 Example Property Road,Austin,TX,479000.00

@@ -1,0 +1,10 @@
+{"transaction_id": 5051, "account_id": 51, "transaction_date": "2025-10-26", "transaction_type": "DEPOSIT", "amount": 1869.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5052, "account_id": 52, "transaction_date": "2025-10-27", "transaction_type": "DEPOSIT", "amount": 1870.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5053, "account_id": 53, "transaction_date": "2025-10-28", "transaction_type": "DEPOSIT", "amount": 1870.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5054, "account_id": 54, "transaction_date": "2025-10-29", "transaction_type": "DEPOSIT", "amount": 1870.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5055, "account_id": 55, "transaction_date": "2025-10-30", "transaction_type": "DEPOSIT", "amount": 1871.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5056, "account_id": 56, "transaction_date": "2025-10-31", "transaction_type": "DEPOSIT", "amount": 1871.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5057, "account_id": 57, "transaction_date": "2025-11-01", "transaction_type": "DEPOSIT", "amount": 1872.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5058, "account_id": 58, "transaction_date": "2025-11-02", "transaction_type": "DEPOSIT", "amount": 1872.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5059, "account_id": 59, "transaction_date": "2025-11-03", "transaction_type": "DEPOSIT", "amount": 1872.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5060, "account_id": 60, "transaction_date": "2025-11-04", "transaction_type": "DEPOSIT", "amount": 1873.2, "currency": "USD", "status": "POSTED"}

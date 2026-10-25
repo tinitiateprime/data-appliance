@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+5001,5001 Example Property Road,Chicago,IL,400100.00
+5002,5002 Example Property Road,Austin,TX,400200.00
+5003,5003 Example Property Road,Sacramento,CA,400300.00
+5004,5004 Example Property Road,New York,NY,400400.00
+5005,5005 Example Property Road,Chicago,IL,400500.00
+5006,5006 Example Property Road,Austin,TX,400600.00
+5007,5007 Example Property Road,Sacramento,CA,400700.00
+5008,5008 Example Property Road,New York,NY,400800.00
+5009,5009 Example Property Road,Chicago,IL,400900.00
+5010,5010 Example Property Road,Austin,TX,401000.00

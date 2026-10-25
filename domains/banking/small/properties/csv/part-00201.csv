@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+2011,2011 Example Property Road,Sacramento,CA,401100.00
+2012,2012 Example Property Road,New York,NY,401200.00
+2013,2013 Example Property Road,Chicago,IL,401300.00
+2014,2014 Example Property Road,Austin,TX,401400.00
+2015,2015 Example Property Road,Sacramento,CA,401500.00
+2016,2016 Example Property Road,New York,NY,401600.00
+2017,2017 Example Property Road,Chicago,IL,401700.00
+2018,2018 Example Property Road,Austin,TX,401800.00
+2019,2019 Example Property Road,Sacramento,CA,401900.00
+2020,2020 Example Property Road,New York,NY,402000.00

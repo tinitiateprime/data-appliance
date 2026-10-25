@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+3141,3141 Example Property Road,Chicago,IL,414100.00
+3142,3142 Example Property Road,Austin,TX,414200.00
+3143,3143 Example Property Road,Sacramento,CA,414300.00
+3144,3144 Example Property Road,New York,NY,414400.00
+3145,3145 Example Property Road,Chicago,IL,414500.00
+3146,3146 Example Property Road,Austin,TX,414600.00
+3147,3147 Example Property Road,Sacramento,CA,414700.00
+3148,3148 Example Property Road,New York,NY,414800.00
+3149,3149 Example Property Road,Chicago,IL,414900.00
+3150,3150 Example Property Road,Austin,TX,415000.00

@@ -1,0 +1,11 @@
+product_id,product_name,account_type,annual_rate
+1,Synthetic Checking Product 0000001,CHECKING,0.00
+2,Synthetic Savings Product 0000002,SAVINGS,0.02
+3,Synthetic Checking Product 0000003,CHECKING,0.00
+4,Synthetic Savings Product 0000004,SAVINGS,0.02
+5,Synthetic Checking Product 0000005,CHECKING,0.00
+6,Synthetic Savings Product 0000006,SAVINGS,0.02
+7,Synthetic Checking Product 0000007,CHECKING,0.00
+8,Synthetic Savings Product 0000008,SAVINGS,0.02
+9,Synthetic Checking Product 0000009,CHECKING,0.00
+10,Synthetic Savings Product 0000010,SAVINGS,0.02

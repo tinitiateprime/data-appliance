@@ -1,37 +1,208 @@
 {
-  "files_verified": 3075,
-  "bytes": 282332365,
-  "formats": [
-    "csv",
-    "json",
-    "parquet"
-  ],
-  "small_files_per_format": 1000,
-  "small_rows_per_file": 10,
-  "large_files_per_format": 10,
-  "large_rows_per_file": 100000,
-  "matching_records_across_formats": true,
-  "small_matches_first_10000_large_rows": true,
-  "all_accounts_have_deposits_and_withdrawals_in_large_set": true,
+  "version": 3,
+  "data_files_verified": 48480,
+  "tables": 16,
+  "total_bytes": 3389484202,
+  "formats_match": true,
+  "sequential_primary_keys": true,
   "foreign_keys_valid": true,
-  "table_rows": {
-    "customers": 10000,
-    "customer_address": 10000,
-    "branches": 100,
-    "account_products": 4,
-    "accounts": 25833,
-    "account_owners": 28416,
-    "checking_accounts": 13333,
-    "savings_accounts": 12500,
-    "properties": 2000,
-    "vehicles": 3000,
-    "loans": 11000,
-    "home_loans": 2000,
-    "personal_loans": 6000,
-    "auto_loans": 3000,
-    "loan_payments": 66000
+  "snapshot_type_and_date_uniqueness_valid": true,
+  "live_services_tested": false,
+  "groups": {
+    "large/customers": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 326546643
+    },
+    "small/customers": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 5277113
+    },
+    "large/customer_address": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 247861613
+    },
+    "small/customer_address": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 4319252
+    },
+    "large/branches": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 159940862
+    },
+    "small/branches": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 2943131
+    },
+    "large/account_products": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 192975848
+    },
+    "small/account_products": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3448013
+    },
+    "large/accounts": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 190718383
+    },
+    "small/accounts": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3626778
+    },
+    "large/account_owners": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 137369525
+    },
+    "small/account_owners": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 2631890
+    },
+    "large/checking_accounts": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 180165761
+    },
+    "small/checking_accounts": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3393890
+    },
+    "large/savings_accounts": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 174165223
+    },
+    "small/savings_accounts": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3385890
+    },
+    "large/properties": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 212453307
+    },
+    "small/properties": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3870924
+    },
+    "large/vehicles": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 230587506
+    },
+    "small/vehicles": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 4155327
+    },
+    "large/loans": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 281333547
+    },
+    "small/loans": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 5586701
+    },
+    "large/home_loans": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 180731035
+    },
+    "small/home_loans": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3398995
+    },
+    "large/personal_loans": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 180398575
+    },
+    "small/personal_loans": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3302901
+    },
+    "large/auto_loans": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 177731343
+    },
+    "small/auto_loans": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 3365952
+    },
+    "large/loan_payments": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 209076420
+    },
+    "small/loan_payments": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 4107991
+    },
+    "large/account_transactions": {
+      "files_per_format": 10,
+      "rows_per_file": 100000,
+      "rows_per_format": 1000000,
+      "bytes_all_formats": 246012356
+    },
+    "small/account_transactions": {
+      "files_per_format": 1000,
+      "rows_per_file": 10,
+      "rows_per_format": 10000,
+      "bytes_all_formats": 4601507
+    }
   },
-  "customers_with_multiple_checking_accounts": 3333,
-  "customers_with_multiple_savings_accounts": 2500,
-  "customers_without_loans": 4000
+  "active_account_deposit_withdrawal_pattern_valid": true,
+  "small_layout_sql_constraints_passed": true,
+  "sql_validation_engine": "SQLite using adapted PostgreSQL DDL; live PostgreSQL not tested"
 }

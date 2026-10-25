@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+2001,2001 Example Property Road,Chicago,IL,400100.00
+2002,2002 Example Property Road,Austin,TX,400200.00
+2003,2003 Example Property Road,Sacramento,CA,400300.00
+2004,2004 Example Property Road,New York,NY,400400.00
+2005,2005 Example Property Road,Chicago,IL,400500.00
+2006,2006 Example Property Road,Austin,TX,400600.00
+2007,2007 Example Property Road,Sacramento,CA,400700.00
+2008,2008 Example Property Road,New York,NY,400800.00
+2009,2009 Example Property Road,Chicago,IL,400900.00
+2010,2010 Example Property Road,Austin,TX,401000.00

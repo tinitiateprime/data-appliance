@@ -1,0 +1,10 @@
+{"transaction_id": 7951, "account_id": 451, "transaction_date": "2025-10-02", "transaction_type": "WITHDRAWAL", "amount": -942.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7952, "account_id": 452, "transaction_date": "2025-10-03", "transaction_type": "WITHDRAWAL", "amount": -943.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7953, "account_id": 453, "transaction_date": "2025-10-04", "transaction_type": "WITHDRAWAL", "amount": -943.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7954, "account_id": 454, "transaction_date": "2025-10-05", "transaction_type": "WITHDRAWAL", "amount": -943.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7955, "account_id": 455, "transaction_date": "2025-10-06", "transaction_type": "WITHDRAWAL", "amount": -944.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7956, "account_id": 456, "transaction_date": "2025-10-07", "transaction_type": "WITHDRAWAL", "amount": -944.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7957, "account_id": 457, "transaction_date": "2025-10-08", "transaction_type": "WITHDRAWAL", "amount": -945.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7958, "account_id": 458, "transaction_date": "2025-10-09", "transaction_type": "WITHDRAWAL", "amount": -945.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7959, "account_id": 459, "transaction_date": "2025-10-10", "transaction_type": "WITHDRAWAL", "amount": -945.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7960, "account_id": 460, "transaction_date": "2025-10-11", "transaction_type": "WITHDRAWAL", "amount": -946.2, "currency": "USD", "status": "POSTED"}

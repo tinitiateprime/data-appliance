@@ -1,0 +1,10 @@
+{"loan_id": 1561, "customer_id": 521, "branch_id": 1561, "loan_type": "HOME", "principal": 256100.0, "annual_rate": 0.06, "term_months": 360, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1562, "customer_id": 521, "branch_id": 1562, "loan_type": "PERSONAL", "principal": 11200.0, "annual_rate": 0.12, "term_months": 36, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1563, "customer_id": 521, "branch_id": 1563, "loan_type": "AUTO", "principal": 26300.0, "annual_rate": 0.08, "term_months": 60, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1564, "customer_id": 522, "branch_id": 1564, "loan_type": "HOME", "principal": 256400.0, "annual_rate": 0.06, "term_months": 360, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1565, "customer_id": 522, "branch_id": 1565, "loan_type": "PERSONAL", "principal": 11500.0, "annual_rate": 0.12, "term_months": 36, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1566, "customer_id": 522, "branch_id": 1566, "loan_type": "AUTO", "principal": 26600.0, "annual_rate": 0.08, "term_months": 60, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1567, "customer_id": 523, "branch_id": 1567, "loan_type": "HOME", "principal": 256700.0, "annual_rate": 0.06, "term_months": 360, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1568, "customer_id": 523, "branch_id": 1568, "loan_type": "PERSONAL", "principal": 11800.0, "annual_rate": 0.12, "term_months": 36, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1569, "customer_id": 523, "branch_id": 1569, "loan_type": "AUTO", "principal": 26900.0, "annual_rate": 0.08, "term_months": 60, "origination_date": "2024-01-01", "status": "ACTIVE"}
+{"loan_id": 1570, "customer_id": 524, "branch_id": 1570, "loan_type": "HOME", "principal": 257000.0, "annual_rate": 0.06, "term_months": 360, "origination_date": "2024-01-01", "status": "ACTIVE"}

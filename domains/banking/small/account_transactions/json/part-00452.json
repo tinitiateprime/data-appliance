@@ -1,0 +1,10 @@
+{"transaction_id": 4521, "account_id": 2021, "transaction_date": "2024-05-14", "transaction_type": "WITHDRAWAL", "amount": -1673.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4522, "account_id": 2022, "transaction_date": "2024-05-15", "transaction_type": "WITHDRAWAL", "amount": -1674.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4523, "account_id": 2023, "transaction_date": "2024-05-16", "transaction_type": "WITHDRAWAL", "amount": -1674.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4524, "account_id": 2024, "transaction_date": "2024-05-17", "transaction_type": "WITHDRAWAL", "amount": -1674.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4525, "account_id": 2025, "transaction_date": "2024-05-18", "transaction_type": "WITHDRAWAL", "amount": -1675.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4526, "account_id": 2026, "transaction_date": "2024-05-19", "transaction_type": "WITHDRAWAL", "amount": -1675.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4527, "account_id": 2027, "transaction_date": "2024-05-20", "transaction_type": "WITHDRAWAL", "amount": -1675.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4528, "account_id": 2028, "transaction_date": "2024-05-21", "transaction_type": "WITHDRAWAL", "amount": -1676.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4529, "account_id": 2029, "transaction_date": "2024-05-22", "transaction_type": "WITHDRAWAL", "amount": -1676.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4530, "account_id": 2030, "transaction_date": "2024-05-23", "transaction_type": "WITHDRAWAL", "amount": -1677.1, "currency": "USD", "status": "POSTED"}

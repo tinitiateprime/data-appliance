@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+2761,2761 Example Property Road,Chicago,IL,476100.00
+2762,2762 Example Property Road,Austin,TX,476200.00
+2763,2763 Example Property Road,Sacramento,CA,476300.00
+2764,2764 Example Property Road,New York,NY,476400.00
+2765,2765 Example Property Road,Chicago,IL,476500.00
+2766,2766 Example Property Road,Austin,TX,476600.00
+2767,2767 Example Property Road,Sacramento,CA,476700.00
+2768,2768 Example Property Road,New York,NY,476800.00
+2769,2769 Example Property Road,Chicago,IL,476900.00
+2770,2770 Example Property Road,Austin,TX,477000.00

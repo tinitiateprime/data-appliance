@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+101,101 Example Property Road,Chicago,IL,410100.00
+102,102 Example Property Road,Austin,TX,410200.00
+103,103 Example Property Road,Sacramento,CA,410300.00
+104,104 Example Property Road,New York,NY,410400.00
+105,105 Example Property Road,Chicago,IL,410500.00
+106,106 Example Property Road,Austin,TX,410600.00
+107,107 Example Property Road,Sacramento,CA,410700.00
+108,108 Example Property Road,New York,NY,410800.00
+109,109 Example Property Road,Chicago,IL,410900.00
+110,110 Example Property Road,Austin,TX,411000.00

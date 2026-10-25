@@ -1,0 +1,10 @@
+{"transaction_id": 4501, "account_id": 2001, "transaction_date": "2024-04-24", "transaction_type": "WITHDRAWAL", "amount": -1666.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4502, "account_id": 2002, "transaction_date": "2024-04-25", "transaction_type": "WITHDRAWAL", "amount": -1666.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4503, "account_id": 2003, "transaction_date": "2024-04-26", "transaction_type": "WITHDRAWAL", "amount": -1667.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4504, "account_id": 2004, "transaction_date": "2024-04-27", "transaction_type": "WITHDRAWAL", "amount": -1667.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4505, "account_id": 2005, "transaction_date": "2024-04-28", "transaction_type": "WITHDRAWAL", "amount": -1667.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4506, "account_id": 2006, "transaction_date": "2024-04-29", "transaction_type": "WITHDRAWAL", "amount": -1668.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4507, "account_id": 2007, "transaction_date": "2024-04-30", "transaction_type": "WITHDRAWAL", "amount": -1668.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4508, "account_id": 2008, "transaction_date": "2024-05-01", "transaction_type": "WITHDRAWAL", "amount": -1668.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4509, "account_id": 2009, "transaction_date": "2024-05-02", "transaction_type": "WITHDRAWAL", "amount": -1669.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4510, "account_id": 2010, "transaction_date": "2024-05-03", "transaction_type": "WITHDRAWAL", "amount": -1669.7, "currency": "USD", "status": "POSTED"}

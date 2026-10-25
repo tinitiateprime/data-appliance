@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+1971,1971 Example Property Road,Sacramento,CA,497100.00
+1972,1972 Example Property Road,New York,NY,497200.00
+1973,1973 Example Property Road,Chicago,IL,497300.00
+1974,1974 Example Property Road,Austin,TX,497400.00
+1975,1975 Example Property Road,Sacramento,CA,497500.00
+1976,1976 Example Property Road,New York,NY,497600.00
+1977,1977 Example Property Road,Chicago,IL,497700.00
+1978,1978 Example Property Road,Austin,TX,497800.00
+1979,1979 Example Property Road,Sacramento,CA,497900.00
+1980,1980 Example Property Road,New York,NY,498000.00

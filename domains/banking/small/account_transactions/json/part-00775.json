@@ -1,0 +1,10 @@
+{"transaction_id": 7751, "account_id": 251, "transaction_date": "2025-03-16", "transaction_type": "WITHDRAWAL", "amount": -868.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7752, "account_id": 252, "transaction_date": "2025-03-17", "transaction_type": "WITHDRAWAL", "amount": -869.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7753, "account_id": 253, "transaction_date": "2025-03-18", "transaction_type": "WITHDRAWAL", "amount": -869.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7754, "account_id": 254, "transaction_date": "2025-03-19", "transaction_type": "WITHDRAWAL", "amount": -869.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7755, "account_id": 255, "transaction_date": "2025-03-20", "transaction_type": "WITHDRAWAL", "amount": -870.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7756, "account_id": 256, "transaction_date": "2025-03-21", "transaction_type": "WITHDRAWAL", "amount": -870.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7757, "account_id": 257, "transaction_date": "2025-03-22", "transaction_type": "WITHDRAWAL", "amount": -871.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7758, "account_id": 258, "transaction_date": "2025-03-23", "transaction_type": "WITHDRAWAL", "amount": -871.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7759, "account_id": 259, "transaction_date": "2025-03-24", "transaction_type": "WITHDRAWAL", "amount": -871.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7760, "account_id": 260, "transaction_date": "2025-03-25", "transaction_type": "WITHDRAWAL", "amount": -872.2, "currency": "USD", "status": "POSTED"}

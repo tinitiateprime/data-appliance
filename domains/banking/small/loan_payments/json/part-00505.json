@@ -1,0 +1,10 @@
+{"payment_id": 5051, "loan_id": 5051, "due_date": "2024-02-01", "principal_amount": 280.56, "interest_amount": 101.0, "status": "SCHEDULED"}
+{"payment_id": 5052, "loan_id": 5052, "due_date": "2024-02-01", "principal_amount": 420.0, "interest_amount": 168.0, "status": "SCHEDULED"}
+{"payment_id": 5053, "loan_id": 5053, "due_date": "2024-02-01", "principal_amount": 570.28, "interest_amount": 1026.5, "status": "SCHEDULED"}
+{"payment_id": 5054, "loan_id": 5054, "due_date": "2024-02-01", "principal_amount": 288.89, "interest_amount": 104.0, "status": "SCHEDULED"}
+{"payment_id": 5055, "loan_id": 5055, "due_date": "2024-02-01", "principal_amount": 425.0, "interest_amount": 170.0, "status": "SCHEDULED"}
+{"payment_id": 5056, "loan_id": 5056, "due_date": "2024-02-01", "principal_amount": 571.11, "interest_amount": 1028.0, "status": "SCHEDULED"}
+{"payment_id": 5057, "loan_id": 5057, "due_date": "2024-02-01", "principal_amount": 297.22, "interest_amount": 107.0, "status": "SCHEDULED"}
+{"payment_id": 5058, "loan_id": 5058, "due_date": "2024-02-01", "principal_amount": 430.0, "interest_amount": 172.0, "status": "SCHEDULED"}
+{"payment_id": 5059, "loan_id": 5059, "due_date": "2024-02-01", "principal_amount": 571.94, "interest_amount": 1029.5, "status": "SCHEDULED"}
+{"payment_id": 5060, "loan_id": 5060, "due_date": "2024-02-01", "principal_amount": 305.56, "interest_amount": 110.0, "status": "SCHEDULED"}

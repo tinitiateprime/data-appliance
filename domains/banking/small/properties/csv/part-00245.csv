@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+2451,2451 Example Property Road,Sacramento,CA,445100.00
+2452,2452 Example Property Road,New York,NY,445200.00
+2453,2453 Example Property Road,Chicago,IL,445300.00
+2454,2454 Example Property Road,Austin,TX,445400.00
+2455,2455 Example Property Road,Sacramento,CA,445500.00
+2456,2456 Example Property Road,New York,NY,445600.00
+2457,2457 Example Property Road,Chicago,IL,445700.00
+2458,2458 Example Property Road,Austin,TX,445800.00
+2459,2459 Example Property Road,Sacramento,CA,445900.00
+2460,2460 Example Property Road,New York,NY,446000.00

@@ -9,7 +9,7 @@ The repository contains three learning tracks:
 | --- | --- | --- |
 | [General data](general-data/) | File-ingestion labs, format comparisons, performance testing, and CDC exercises | CSV, JSON, Parquet, PostgreSQL |
 | [Retail banking](data-appliance-retail_banking/) | A complete Bronze-to-Silver-to-Gold banking project | Databricks, Spark SQL, Delta Lake |
-| [Domain datasets — banking](domains/banking/) | 10,000 customers; 1,000 tiny transaction files and 10 larger transaction files per format | CSV, JSON, Parquet, PostgreSQL DDL |
+| [Domain datasets — banking](domains/banking/) | Every banking table: 1,000 ten-row files and 10 hundred-thousand-row files per format | CSV, JSON, Parquet, PostgreSQL DDL |
 
 > The data is intended for training and demonstrations. It does not contain real
 > customer or banking information.

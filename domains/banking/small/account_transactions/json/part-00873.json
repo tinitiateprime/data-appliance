@@ -1,0 +1,10 @@
+{"transaction_id": 8731, "account_id": 1231, "transaction_date": "2025-11-20", "transaction_type": "WITHDRAWAL", "amount": -1231.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8732, "account_id": 1232, "transaction_date": "2025-11-21", "transaction_type": "WITHDRAWAL", "amount": -1231.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8733, "account_id": 1233, "transaction_date": "2025-11-22", "transaction_type": "WITHDRAWAL", "amount": -1232.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8734, "account_id": 1234, "transaction_date": "2025-11-23", "transaction_type": "WITHDRAWAL", "amount": -1232.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8735, "account_id": 1235, "transaction_date": "2025-11-24", "transaction_type": "WITHDRAWAL", "amount": -1232.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8736, "account_id": 1236, "transaction_date": "2025-11-25", "transaction_type": "WITHDRAWAL", "amount": -1233.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8737, "account_id": 1237, "transaction_date": "2025-11-26", "transaction_type": "WITHDRAWAL", "amount": -1233.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8738, "account_id": 1238, "transaction_date": "2025-11-27", "transaction_type": "WITHDRAWAL", "amount": -1234.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8739, "account_id": 1239, "transaction_date": "2025-11-28", "transaction_type": "WITHDRAWAL", "amount": -1234.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8740, "account_id": 1240, "transaction_date": "2025-11-29", "transaction_type": "WITHDRAWAL", "amount": -1234.8, "currency": "USD", "status": "POSTED"}

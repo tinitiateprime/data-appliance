@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+3861,3861 Example Property Road,Chicago,IL,486100.00
+3862,3862 Example Property Road,Austin,TX,486200.00
+3863,3863 Example Property Road,Sacramento,CA,486300.00
+3864,3864 Example Property Road,New York,NY,486400.00
+3865,3865 Example Property Road,Chicago,IL,486500.00
+3866,3866 Example Property Road,Austin,TX,486600.00
+3867,3867 Example Property Road,Sacramento,CA,486700.00
+3868,3868 Example Property Road,New York,NY,486800.00
+3869,3869 Example Property Road,Chicago,IL,486900.00
+3870,3870 Example Property Road,Austin,TX,487000.00

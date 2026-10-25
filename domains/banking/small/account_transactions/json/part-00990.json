@@ -1,0 +1,10 @@
+{"transaction_id": 9901, "account_id": 2401, "transaction_date": "2025-02-01", "transaction_type": "WITHDRAWAL", "amount": -1664.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9902, "account_id": 2402, "transaction_date": "2025-02-02", "transaction_type": "WITHDRAWAL", "amount": -1664.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9903, "account_id": 2403, "transaction_date": "2025-02-03", "transaction_type": "WITHDRAWAL", "amount": -1665.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9904, "account_id": 2404, "transaction_date": "2025-02-04", "transaction_type": "WITHDRAWAL", "amount": -1665.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9905, "account_id": 2405, "transaction_date": "2025-02-05", "transaction_type": "WITHDRAWAL", "amount": -1665.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9906, "account_id": 2406, "transaction_date": "2025-02-06", "transaction_type": "WITHDRAWAL", "amount": -1666.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9907, "account_id": 2407, "transaction_date": "2025-02-07", "transaction_type": "WITHDRAWAL", "amount": -1666.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9908, "account_id": 2408, "transaction_date": "2025-02-08", "transaction_type": "WITHDRAWAL", "amount": -1666.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9909, "account_id": 2409, "transaction_date": "2025-02-09", "transaction_type": "WITHDRAWAL", "amount": -1667.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9910, "account_id": 2410, "transaction_date": "2025-02-10", "transaction_type": "WITHDRAWAL", "amount": -1667.7, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 2711, "account_id": 211, "transaction_date": "2025-06-01", "transaction_type": "WITHDRAWAL", "amount": -1004.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2712, "account_id": 212, "transaction_date": "2025-06-02", "transaction_type": "WITHDRAWAL", "amount": -1004.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2713, "account_id": 213, "transaction_date": "2025-06-03", "transaction_type": "WITHDRAWAL", "amount": -1004.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2714, "account_id": 214, "transaction_date": "2025-06-04", "transaction_type": "WITHDRAWAL", "amount": -1005.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2715, "account_id": 215, "transaction_date": "2025-06-05", "transaction_type": "WITHDRAWAL", "amount": -1005.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2716, "account_id": 216, "transaction_date": "2025-06-06", "transaction_type": "WITHDRAWAL", "amount": -1005.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2717, "account_id": 217, "transaction_date": "2025-06-07", "transaction_type": "WITHDRAWAL", "amount": -1006.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2718, "account_id": 218, "transaction_date": "2025-06-08", "transaction_type": "WITHDRAWAL", "amount": -1006.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2719, "account_id": 219, "transaction_date": "2025-06-09", "transaction_type": "WITHDRAWAL", "amount": -1007.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2720, "account_id": 220, "transaction_date": "2025-06-10", "transaction_type": "WITHDRAWAL", "amount": -1007.4, "currency": "USD", "status": "POSTED"}

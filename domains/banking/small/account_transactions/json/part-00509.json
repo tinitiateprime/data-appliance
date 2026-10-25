@@ -1,0 +1,10 @@
+{"transaction_id": 5091, "account_id": 91, "transaction_date": "2025-12-05", "transaction_type": "DEPOSIT", "amount": 1884.67, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5092, "account_id": 92, "transaction_date": "2025-12-06", "transaction_type": "DEPOSIT", "amount": 1885.04, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5093, "account_id": 93, "transaction_date": "2025-12-07", "transaction_type": "DEPOSIT", "amount": 1885.41, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5094, "account_id": 94, "transaction_date": "2025-12-08", "transaction_type": "DEPOSIT", "amount": 1885.78, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5095, "account_id": 95, "transaction_date": "2025-12-09", "transaction_type": "DEPOSIT", "amount": 1886.15, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5096, "account_id": 96, "transaction_date": "2025-12-10", "transaction_type": "DEPOSIT", "amount": 1886.52, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5097, "account_id": 97, "transaction_date": "2025-12-11", "transaction_type": "DEPOSIT", "amount": 1886.89, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5098, "account_id": 98, "transaction_date": "2025-12-12", "transaction_type": "DEPOSIT", "amount": 1887.26, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5099, "account_id": 99, "transaction_date": "2025-12-13", "transaction_type": "DEPOSIT", "amount": 1887.63, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5100, "account_id": 100, "transaction_date": "2025-12-14", "transaction_type": "DEPOSIT", "amount": 1888.0, "currency": "USD", "status": "POSTED"}

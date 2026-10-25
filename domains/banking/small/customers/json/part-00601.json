@@ -1,0 +1,10 @@
+{"customer_id": 6011, "customer_name": "Synthetic Customer 0006011", "dob": "1961-12-20", "phone_number": "TEST-PHONE-0006011", "gender": "Unspecified", "email": "customer6011@example.invalid"}
+{"customer_id": 6012, "customer_name": "Synthetic Customer 0006012", "dob": "1962-01-21", "phone_number": "TEST-PHONE-0006012", "gender": "Female", "email": "customer6012@example.invalid"}
+{"customer_id": 6013, "customer_name": "Synthetic Customer 0006013", "dob": "1963-02-22", "phone_number": "TEST-PHONE-0006013", "gender": "Male", "email": "customer6013@example.invalid"}
+{"customer_id": 6014, "customer_name": "Synthetic Customer 0006014", "dob": "1964-03-23", "phone_number": "TEST-PHONE-0006014", "gender": "Nonbinary", "email": "customer6014@example.invalid"}
+{"customer_id": 6015, "customer_name": "Synthetic Customer 0006015", "dob": "1965-04-24", "phone_number": "TEST-PHONE-0006015", "gender": "Unspecified", "email": "customer6015@example.invalid"}
+{"customer_id": 6016, "customer_name": "Synthetic Customer 0006016", "dob": "1966-05-25", "phone_number": "TEST-PHONE-0006016", "gender": "Female", "email": "customer6016@example.invalid"}
+{"customer_id": 6017, "customer_name": "Synthetic Customer 0006017", "dob": "1967-06-26", "phone_number": "TEST-PHONE-0006017", "gender": "Male", "email": "customer6017@example.invalid"}
+{"customer_id": 6018, "customer_name": "Synthetic Customer 0006018", "dob": "1968-07-27", "phone_number": "TEST-PHONE-0006018", "gender": "Nonbinary", "email": "customer6018@example.invalid"}
+{"customer_id": 6019, "customer_name": "Synthetic Customer 0006019", "dob": "1969-08-28", "phone_number": "TEST-PHONE-0006019", "gender": "Unspecified", "email": "customer6019@example.invalid"}
+{"customer_id": 6020, "customer_name": "Synthetic Customer 0006020", "dob": "1970-09-01", "phone_number": "TEST-PHONE-0006020", "gender": "Female", "email": "customer6020@example.invalid"}

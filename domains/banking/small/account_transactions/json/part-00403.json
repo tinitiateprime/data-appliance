@@ -1,0 +1,10 @@
+{"transaction_id": 4031, "account_id": 1531, "transaction_date": "2025-01-10", "transaction_type": "WITHDRAWAL", "amount": -1492.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4032, "account_id": 1532, "transaction_date": "2025-01-11", "transaction_type": "WITHDRAWAL", "amount": -1492.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4033, "account_id": 1533, "transaction_date": "2025-01-12", "transaction_type": "WITHDRAWAL", "amount": -1493.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4034, "account_id": 1534, "transaction_date": "2025-01-13", "transaction_type": "WITHDRAWAL", "amount": -1493.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4035, "account_id": 1535, "transaction_date": "2025-01-14", "transaction_type": "WITHDRAWAL", "amount": -1493.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4036, "account_id": 1536, "transaction_date": "2025-01-15", "transaction_type": "WITHDRAWAL", "amount": -1494.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4037, "account_id": 1537, "transaction_date": "2025-01-16", "transaction_type": "WITHDRAWAL", "amount": -1494.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4038, "account_id": 1538, "transaction_date": "2025-01-17", "transaction_type": "WITHDRAWAL", "amount": -1495.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4039, "account_id": 1539, "transaction_date": "2025-01-18", "transaction_type": "WITHDRAWAL", "amount": -1495.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4040, "account_id": 1540, "transaction_date": "2025-01-19", "transaction_type": "WITHDRAWAL", "amount": -1495.8, "currency": "USD", "status": "POSTED"}

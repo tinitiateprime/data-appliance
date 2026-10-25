@@ -1,0 +1,10 @@
+{"transaction_id": 8231, "account_id": 731, "transaction_date": "2024-07-08", "transaction_type": "WITHDRAWAL", "amount": -1046.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8232, "account_id": 732, "transaction_date": "2024-07-09", "transaction_type": "WITHDRAWAL", "amount": -1046.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8233, "account_id": 733, "transaction_date": "2024-07-10", "transaction_type": "WITHDRAWAL", "amount": -1047.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8234, "account_id": 734, "transaction_date": "2024-07-11", "transaction_type": "WITHDRAWAL", "amount": -1047.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8235, "account_id": 735, "transaction_date": "2024-07-12", "transaction_type": "WITHDRAWAL", "amount": -1047.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8236, "account_id": 736, "transaction_date": "2024-07-13", "transaction_type": "WITHDRAWAL", "amount": -1048.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8237, "account_id": 737, "transaction_date": "2024-07-14", "transaction_type": "WITHDRAWAL", "amount": -1048.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8238, "account_id": 738, "transaction_date": "2024-07-15", "transaction_type": "WITHDRAWAL", "amount": -1049.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8239, "account_id": 739, "transaction_date": "2024-07-16", "transaction_type": "WITHDRAWAL", "amount": -1049.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8240, "account_id": 740, "transaction_date": "2024-07-17", "transaction_type": "WITHDRAWAL", "amount": -1049.8, "currency": "USD", "status": "POSTED"}

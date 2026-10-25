@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+4621,4621 Example Property Road,Chicago,IL,462100.00
+4622,4622 Example Property Road,Austin,TX,462200.00
+4623,4623 Example Property Road,Sacramento,CA,462300.00
+4624,4624 Example Property Road,New York,NY,462400.00
+4625,4625 Example Property Road,Chicago,IL,462500.00
+4626,4626 Example Property Road,Austin,TX,462600.00
+4627,4627 Example Property Road,Sacramento,CA,462700.00
+4628,4628 Example Property Road,New York,NY,462800.00
+4629,4629 Example Property Road,Chicago,IL,462900.00
+4630,4630 Example Property Road,Austin,TX,463000.00

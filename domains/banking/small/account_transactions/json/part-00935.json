@@ -1,0 +1,10 @@
+{"transaction_id": 9351, "account_id": 1851, "transaction_date": "2025-08-01", "transaction_type": "WITHDRAWAL", "amount": -1460.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9352, "account_id": 1852, "transaction_date": "2025-08-02", "transaction_type": "WITHDRAWAL", "amount": -1461.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9353, "account_id": 1853, "transaction_date": "2025-08-03", "transaction_type": "WITHDRAWAL", "amount": -1461.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9354, "account_id": 1854, "transaction_date": "2025-08-04", "transaction_type": "WITHDRAWAL", "amount": -1461.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9355, "account_id": 1855, "transaction_date": "2025-08-05", "transaction_type": "WITHDRAWAL", "amount": -1462.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9356, "account_id": 1856, "transaction_date": "2025-08-06", "transaction_type": "WITHDRAWAL", "amount": -1462.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9357, "account_id": 1857, "transaction_date": "2025-08-07", "transaction_type": "WITHDRAWAL", "amount": -1463.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9358, "account_id": 1858, "transaction_date": "2025-08-08", "transaction_type": "WITHDRAWAL", "amount": -1463.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9359, "account_id": 1859, "transaction_date": "2025-08-09", "transaction_type": "WITHDRAWAL", "amount": -1463.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9360, "account_id": 1860, "transaction_date": "2025-08-10", "transaction_type": "WITHDRAWAL", "amount": -1464.2, "currency": "USD", "status": "POSTED"}

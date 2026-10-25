@@ -1,0 +1,11 @@
+address_id,customer_id,address_line,city,state_code,postal_code
+1,1,1 Fictional Training Lane,Chicago,IL,10001
+2,2,2 Fictional Training Lane,Austin,TX,10002
+3,3,3 Fictional Training Lane,Sacramento,CA,10003
+4,4,4 Fictional Training Lane,New York,NY,10004
+5,5,5 Fictional Training Lane,Chicago,IL,10005
+6,6,6 Fictional Training Lane,Austin,TX,10006
+7,7,7 Fictional Training Lane,Sacramento,CA,10007
+8,8,8 Fictional Training Lane,New York,NY,10008
+9,9,9 Fictional Training Lane,Chicago,IL,10009
+10,10,10 Fictional Training Lane,Austin,TX,10010

@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+9061,9061 Example Property Road,Chicago,IL,406100.00
+9062,9062 Example Property Road,Austin,TX,406200.00
+9063,9063 Example Property Road,Sacramento,CA,406300.00
+9064,9064 Example Property Road,New York,NY,406400.00
+9065,9065 Example Property Road,Chicago,IL,406500.00
+9066,9066 Example Property Road,Austin,TX,406600.00
+9067,9067 Example Property Road,Sacramento,CA,406700.00
+9068,9068 Example Property Road,New York,NY,406800.00
+9069,9069 Example Property Road,Chicago,IL,406900.00
+9070,9070 Example Property Road,Austin,TX,407000.00

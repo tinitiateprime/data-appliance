@@ -1,0 +1,10 @@
+{"snapshot_id": 5001, "account_id": 1, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5002, "account_id": 3, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5003, "account_id": 5, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5004, "account_id": 7, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5005, "account_id": 9, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5006, "account_id": 11, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5007, "account_id": 13, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5008, "account_id": 15, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5009, "account_id": 17, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}
+{"snapshot_id": 5010, "account_id": 19, "overdraft_limit": 500.0, "debit_card_enabled": true, "snapshot_date": "2024-01-02"}

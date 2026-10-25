@@ -1,0 +1,10 @@
+{"transaction_id": 6891, "account_id": 1891, "transaction_date": "2024-11-07", "transaction_type": "DEPOSIT", "amount": 550.67, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6892, "account_id": 1892, "transaction_date": "2024-11-08", "transaction_type": "DEPOSIT", "amount": 551.04, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6893, "account_id": 1893, "transaction_date": "2024-11-09", "transaction_type": "DEPOSIT", "amount": 551.41, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6894, "account_id": 1894, "transaction_date": "2024-11-10", "transaction_type": "DEPOSIT", "amount": 551.78, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6895, "account_id": 1895, "transaction_date": "2024-11-11", "transaction_type": "DEPOSIT", "amount": 552.15, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6896, "account_id": 1896, "transaction_date": "2024-11-12", "transaction_type": "DEPOSIT", "amount": 552.52, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6897, "account_id": 1897, "transaction_date": "2024-11-13", "transaction_type": "DEPOSIT", "amount": 552.89, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6898, "account_id": 1898, "transaction_date": "2024-11-14", "transaction_type": "DEPOSIT", "amount": 553.26, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6899, "account_id": 1899, "transaction_date": "2024-11-15", "transaction_type": "DEPOSIT", "amount": 553.63, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6900, "account_id": 1900, "transaction_date": "2024-11-16", "transaction_type": "DEPOSIT", "amount": 554.0, "currency": "USD", "status": "POSTED"}

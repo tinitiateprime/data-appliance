@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+3121,3121 Example Property Road,Chicago,IL,412100.00
+3122,3122 Example Property Road,Austin,TX,412200.00
+3123,3123 Example Property Road,Sacramento,CA,412300.00
+3124,3124 Example Property Road,New York,NY,412400.00
+3125,3125 Example Property Road,Chicago,IL,412500.00
+3126,3126 Example Property Road,Austin,TX,412600.00
+3127,3127 Example Property Road,Sacramento,CA,412700.00
+3128,3128 Example Property Road,New York,NY,412800.00
+3129,3129 Example Property Road,Chicago,IL,412900.00
+3130,3130 Example Property Road,Austin,TX,413000.00

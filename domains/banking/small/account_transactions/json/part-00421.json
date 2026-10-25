@@ -1,0 +1,10 @@
+{"transaction_id": 4211, "account_id": 1711, "transaction_date": "2025-07-09", "transaction_type": "WITHDRAWAL", "amount": -1559.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4212, "account_id": 1712, "transaction_date": "2025-07-10", "transaction_type": "WITHDRAWAL", "amount": -1559.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4213, "account_id": 1713, "transaction_date": "2025-07-11", "transaction_type": "WITHDRAWAL", "amount": -1559.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4214, "account_id": 1714, "transaction_date": "2025-07-12", "transaction_type": "WITHDRAWAL", "amount": -1560.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4215, "account_id": 1715, "transaction_date": "2025-07-13", "transaction_type": "WITHDRAWAL", "amount": -1560.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4216, "account_id": 1716, "transaction_date": "2025-07-14", "transaction_type": "WITHDRAWAL", "amount": -1560.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4217, "account_id": 1717, "transaction_date": "2025-07-15", "transaction_type": "WITHDRAWAL", "amount": -1561.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4218, "account_id": 1718, "transaction_date": "2025-07-16", "transaction_type": "WITHDRAWAL", "amount": -1561.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4219, "account_id": 1719, "transaction_date": "2025-07-17", "transaction_type": "WITHDRAWAL", "amount": -1562.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4220, "account_id": 1720, "transaction_date": "2025-07-18", "transaction_type": "WITHDRAWAL", "amount": -1562.4, "currency": "USD", "status": "POSTED"}

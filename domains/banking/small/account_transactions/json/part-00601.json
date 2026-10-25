@@ -1,0 +1,10 @@
+{"transaction_id": 6011, "account_id": 1011, "transaction_date": "2024-06-11", "transaction_type": "DEPOSIT", "amount": 225.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6012, "account_id": 1012, "transaction_date": "2024-06-12", "transaction_type": "DEPOSIT", "amount": 225.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6013, "account_id": 1013, "transaction_date": "2024-06-13", "transaction_type": "DEPOSIT", "amount": 225.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6014, "account_id": 1014, "transaction_date": "2024-06-14", "transaction_type": "DEPOSIT", "amount": 226.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6015, "account_id": 1015, "transaction_date": "2024-06-15", "transaction_type": "DEPOSIT", "amount": 226.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6016, "account_id": 1016, "transaction_date": "2024-06-16", "transaction_type": "DEPOSIT", "amount": 226.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6017, "account_id": 1017, "transaction_date": "2024-06-17", "transaction_type": "DEPOSIT", "amount": 227.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6018, "account_id": 1018, "transaction_date": "2024-06-18", "transaction_type": "DEPOSIT", "amount": 227.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6019, "account_id": 1019, "transaction_date": "2024-06-19", "transaction_type": "DEPOSIT", "amount": 228.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6020, "account_id": 1020, "transaction_date": "2024-06-20", "transaction_type": "DEPOSIT", "amount": 228.4, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,11 @@
+customer_id,customer_name,dob,phone_number,gender,email
+871,Synthetic Customer 0000871,1971-08-04,TEST-PHONE-0000871,Unspecified,customer871@example.invalid
+872,Synthetic Customer 0000872,1972-09-05,TEST-PHONE-0000872,Female,customer872@example.invalid
+873,Synthetic Customer 0000873,1973-10-06,TEST-PHONE-0000873,Male,customer873@example.invalid
+874,Synthetic Customer 0000874,1974-11-07,TEST-PHONE-0000874,Nonbinary,customer874@example.invalid
+875,Synthetic Customer 0000875,1975-12-08,TEST-PHONE-0000875,Unspecified,customer875@example.invalid
+876,Synthetic Customer 0000876,1976-01-09,TEST-PHONE-0000876,Female,customer876@example.invalid
+877,Synthetic Customer 0000877,1977-02-10,TEST-PHONE-0000877,Male,customer877@example.invalid
+878,Synthetic Customer 0000878,1978-03-11,TEST-PHONE-0000878,Nonbinary,customer878@example.invalid
+879,Synthetic Customer 0000879,1979-04-12,TEST-PHONE-0000879,Unspecified,customer879@example.invalid
+880,Synthetic Customer 0000880,1980-05-13,TEST-PHONE-0000880,Female,customer880@example.invalid

@@ -1,0 +1,10 @@
+{"transaction_id": 4421, "account_id": 1921, "transaction_date": "2024-02-04", "transaction_type": "WITHDRAWAL", "amount": -1636.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4422, "account_id": 1922, "transaction_date": "2024-02-05", "transaction_type": "WITHDRAWAL", "amount": -1637.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4423, "account_id": 1923, "transaction_date": "2024-02-06", "transaction_type": "WITHDRAWAL", "amount": -1637.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4424, "account_id": 1924, "transaction_date": "2024-02-07", "transaction_type": "WITHDRAWAL", "amount": -1637.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4425, "account_id": 1925, "transaction_date": "2024-02-08", "transaction_type": "WITHDRAWAL", "amount": -1638.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4426, "account_id": 1926, "transaction_date": "2024-02-09", "transaction_type": "WITHDRAWAL", "amount": -1638.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4427, "account_id": 1927, "transaction_date": "2024-02-10", "transaction_type": "WITHDRAWAL", "amount": -1638.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4428, "account_id": 1928, "transaction_date": "2024-02-11", "transaction_type": "WITHDRAWAL", "amount": -1639.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4429, "account_id": 1929, "transaction_date": "2024-02-12", "transaction_type": "WITHDRAWAL", "amount": -1639.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4430, "account_id": 1930, "transaction_date": "2024-02-13", "transaction_type": "WITHDRAWAL", "amount": -1640.1, "currency": "USD", "status": "POSTED"}

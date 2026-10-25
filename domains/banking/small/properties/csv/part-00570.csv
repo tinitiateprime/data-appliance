@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+5701,5701 Example Property Road,Chicago,IL,470100.00
+5702,5702 Example Property Road,Austin,TX,470200.00
+5703,5703 Example Property Road,Sacramento,CA,470300.00
+5704,5704 Example Property Road,New York,NY,470400.00
+5705,5705 Example Property Road,Chicago,IL,470500.00
+5706,5706 Example Property Road,Austin,TX,470600.00
+5707,5707 Example Property Road,Sacramento,CA,470700.00
+5708,5708 Example Property Road,New York,NY,470800.00
+5709,5709 Example Property Road,Chicago,IL,470900.00
+5710,5710 Example Property Road,Austin,TX,471000.00

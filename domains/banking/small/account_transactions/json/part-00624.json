@@ -1,0 +1,10 @@
+{"transaction_id": 6241, "account_id": 1241, "transaction_date": "2025-01-27", "transaction_type": "DEPOSIT", "amount": 310.17, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6242, "account_id": 1242, "transaction_date": "2025-01-28", "transaction_type": "DEPOSIT", "amount": 310.54, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6243, "account_id": 1243, "transaction_date": "2025-01-29", "transaction_type": "DEPOSIT", "amount": 310.91, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6244, "account_id": 1244, "transaction_date": "2025-01-30", "transaction_type": "DEPOSIT", "amount": 311.28, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6245, "account_id": 1245, "transaction_date": "2025-01-31", "transaction_type": "DEPOSIT", "amount": 311.65, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6246, "account_id": 1246, "transaction_date": "2025-02-01", "transaction_type": "DEPOSIT", "amount": 312.02, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6247, "account_id": 1247, "transaction_date": "2025-02-02", "transaction_type": "DEPOSIT", "amount": 312.39, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6248, "account_id": 1248, "transaction_date": "2025-02-03", "transaction_type": "DEPOSIT", "amount": 312.76, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6249, "account_id": 1249, "transaction_date": "2025-02-04", "transaction_type": "DEPOSIT", "amount": 313.13, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6250, "account_id": 1250, "transaction_date": "2025-02-05", "transaction_type": "DEPOSIT", "amount": 313.5, "currency": "USD", "status": "POSTED"}

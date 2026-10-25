@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+1401,1401 Example Property Road,Chicago,IL,440100.00
+1402,1402 Example Property Road,Austin,TX,440200.00
+1403,1403 Example Property Road,Sacramento,CA,440300.00
+1404,1404 Example Property Road,New York,NY,440400.00
+1405,1405 Example Property Road,Chicago,IL,440500.00
+1406,1406 Example Property Road,Austin,TX,440600.00
+1407,1407 Example Property Road,Sacramento,CA,440700.00
+1408,1408 Example Property Road,New York,NY,440800.00
+1409,1409 Example Property Road,Chicago,IL,440900.00
+1410,1410 Example Property Road,Austin,TX,441000.00

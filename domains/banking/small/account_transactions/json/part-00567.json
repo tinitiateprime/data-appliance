@@ -1,0 +1,10 @@
+{"transaction_id": 5671, "account_id": 671, "transaction_date": "2025-07-07", "transaction_type": "DEPOSIT", "amount": 99.27, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5672, "account_id": 672, "transaction_date": "2025-07-08", "transaction_type": "DEPOSIT", "amount": 99.64, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5673, "account_id": 673, "transaction_date": "2025-07-09", "transaction_type": "DEPOSIT", "amount": 100.01, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5674, "account_id": 674, "transaction_date": "2025-07-10", "transaction_type": "DEPOSIT", "amount": 100.38, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5675, "account_id": 675, "transaction_date": "2025-07-11", "transaction_type": "DEPOSIT", "amount": 100.75, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5676, "account_id": 676, "transaction_date": "2025-07-12", "transaction_type": "DEPOSIT", "amount": 101.12, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5677, "account_id": 677, "transaction_date": "2025-07-13", "transaction_type": "DEPOSIT", "amount": 101.49, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5678, "account_id": 678, "transaction_date": "2025-07-14", "transaction_type": "DEPOSIT", "amount": 101.86, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5679, "account_id": 679, "transaction_date": "2025-07-15", "transaction_type": "DEPOSIT", "amount": 102.23, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5680, "account_id": 680, "transaction_date": "2025-07-16", "transaction_type": "DEPOSIT", "amount": 102.6, "currency": "USD", "status": "POSTED"}

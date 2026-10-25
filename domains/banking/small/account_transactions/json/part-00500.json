@@ -1,0 +1,10 @@
+{"transaction_id": 5001, "account_id": 1, "transaction_date": "2025-09-06", "transaction_type": "DEPOSIT", "amount": 1851.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5002, "account_id": 2, "transaction_date": "2025-09-07", "transaction_type": "DEPOSIT", "amount": 1851.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5003, "account_id": 3, "transaction_date": "2025-09-08", "transaction_type": "DEPOSIT", "amount": 1852.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5004, "account_id": 4, "transaction_date": "2025-09-09", "transaction_type": "DEPOSIT", "amount": 1852.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5005, "account_id": 5, "transaction_date": "2025-09-10", "transaction_type": "DEPOSIT", "amount": 1852.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5006, "account_id": 6, "transaction_date": "2025-09-11", "transaction_type": "DEPOSIT", "amount": 1853.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5007, "account_id": 7, "transaction_date": "2025-09-12", "transaction_type": "DEPOSIT", "amount": 1853.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5008, "account_id": 8, "transaction_date": "2025-09-13", "transaction_type": "DEPOSIT", "amount": 1853.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5009, "account_id": 9, "transaction_date": "2025-09-14", "transaction_type": "DEPOSIT", "amount": 1854.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5010, "account_id": 10, "transaction_date": "2025-09-15", "transaction_type": "DEPOSIT", "amount": 1854.7, "currency": "USD", "status": "POSTED"}

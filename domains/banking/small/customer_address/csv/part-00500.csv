@@ -1,0 +1,11 @@
+address_id,customer_id,address_line,city,state_code,postal_code
+5001,5001,5001 Fictional Training Lane,Chicago,IL,15001
+5002,5002,5002 Fictional Training Lane,Austin,TX,15002
+5003,5003,5003 Fictional Training Lane,Sacramento,CA,15003
+5004,5004,5004 Fictional Training Lane,New York,NY,15004
+5005,5005,5005 Fictional Training Lane,Chicago,IL,15005
+5006,5006,5006 Fictional Training Lane,Austin,TX,15006
+5007,5007,5007 Fictional Training Lane,Sacramento,CA,15007
+5008,5008,5008 Fictional Training Lane,New York,NY,15008
+5009,5009,5009 Fictional Training Lane,Chicago,IL,15009
+5010,5010,5010 Fictional Training Lane,Austin,TX,15010

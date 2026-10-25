@@ -1,0 +1,10 @@
+{"transaction_id": 5261, "account_id": 261, "transaction_date": "2024-05-23", "transaction_type": "DEPOSIT", "amount": 1947.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5262, "account_id": 262, "transaction_date": "2024-05-24", "transaction_type": "DEPOSIT", "amount": 1947.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5263, "account_id": 263, "transaction_date": "2024-05-25", "transaction_type": "DEPOSIT", "amount": 1948.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5264, "account_id": 264, "transaction_date": "2024-05-26", "transaction_type": "DEPOSIT", "amount": 1948.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5265, "account_id": 265, "transaction_date": "2024-05-27", "transaction_type": "DEPOSIT", "amount": 1949.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5266, "account_id": 266, "transaction_date": "2024-05-28", "transaction_type": "DEPOSIT", "amount": 1949.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5267, "account_id": 267, "transaction_date": "2024-05-29", "transaction_type": "DEPOSIT", "amount": 1949.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5268, "account_id": 268, "transaction_date": "2024-05-30", "transaction_type": "DEPOSIT", "amount": 1950.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5269, "account_id": 269, "transaction_date": "2024-05-31", "transaction_type": "DEPOSIT", "amount": 1950.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5270, "account_id": 270, "transaction_date": "2024-06-01", "transaction_type": "DEPOSIT", "amount": 1950.9, "currency": "USD", "status": "POSTED"}

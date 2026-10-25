@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+3671,3671 Example Property Road,Sacramento,CA,467100.00
+3672,3672 Example Property Road,New York,NY,467200.00
+3673,3673 Example Property Road,Chicago,IL,467300.00
+3674,3674 Example Property Road,Austin,TX,467400.00
+3675,3675 Example Property Road,Sacramento,CA,467500.00
+3676,3676 Example Property Road,New York,NY,467600.00
+3677,3677 Example Property Road,Chicago,IL,467700.00
+3678,3678 Example Property Road,Austin,TX,467800.00
+3679,3679 Example Property Road,Sacramento,CA,467900.00
+3680,3680 Example Property Road,New York,NY,468000.00

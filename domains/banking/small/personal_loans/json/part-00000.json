@@ -1,0 +1,10 @@
+{"snapshot_id": 1, "loan_id": 2, "purpose": "OTHER", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 2, "loan_id": 5, "purpose": "HOME_IMPROVEMENT", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 3, "loan_id": 8, "purpose": "HOME_IMPROVEMENT", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 4, "loan_id": 11, "purpose": "DEBT_CONSOLIDATION", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 5, "loan_id": 14, "purpose": "DEBT_CONSOLIDATION", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 6, "loan_id": 17, "purpose": "OTHER", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 7, "loan_id": 20, "purpose": "HOME_IMPROVEMENT", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 8, "loan_id": 23, "purpose": "HOME_IMPROVEMENT", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 9, "loan_id": 26, "purpose": "DEBT_CONSOLIDATION", "unsecured": true, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 10, "loan_id": 29, "purpose": "DEBT_CONSOLIDATION", "unsecured": true, "snapshot_date": "2024-01-01"}

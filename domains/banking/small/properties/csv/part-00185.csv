@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+1851,1851 Example Property Road,Sacramento,CA,485100.00
+1852,1852 Example Property Road,New York,NY,485200.00
+1853,1853 Example Property Road,Chicago,IL,485300.00
+1854,1854 Example Property Road,Austin,TX,485400.00
+1855,1855 Example Property Road,Sacramento,CA,485500.00
+1856,1856 Example Property Road,New York,NY,485600.00
+1857,1857 Example Property Road,Chicago,IL,485700.00
+1858,1858 Example Property Road,Austin,TX,485800.00
+1859,1859 Example Property Road,Sacramento,CA,485900.00
+1860,1860 Example Property Road,New York,NY,486000.00

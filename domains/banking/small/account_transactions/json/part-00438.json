@@ -1,0 +1,10 @@
+{"transaction_id": 4381, "account_id": 1881, "transaction_date": "2025-12-26", "transaction_type": "WITHDRAWAL", "amount": -1621.97, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4382, "account_id": 1882, "transaction_date": "2025-12-27", "transaction_type": "WITHDRAWAL", "amount": -1622.34, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4383, "account_id": 1883, "transaction_date": "2025-12-28", "transaction_type": "WITHDRAWAL", "amount": -1622.71, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4384, "account_id": 1884, "transaction_date": "2025-12-29", "transaction_type": "WITHDRAWAL", "amount": -1623.08, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4385, "account_id": 1885, "transaction_date": "2025-12-30", "transaction_type": "WITHDRAWAL", "amount": -1623.45, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4386, "account_id": 1886, "transaction_date": "2025-12-31", "transaction_type": "WITHDRAWAL", "amount": -1623.82, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4387, "account_id": 1887, "transaction_date": "2024-01-01", "transaction_type": "WITHDRAWAL", "amount": -1624.19, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4388, "account_id": 1888, "transaction_date": "2024-01-02", "transaction_type": "WITHDRAWAL", "amount": -1624.56, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4389, "account_id": 1889, "transaction_date": "2024-01-03", "transaction_type": "WITHDRAWAL", "amount": -1624.93, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4390, "account_id": 1890, "transaction_date": "2024-01-04", "transaction_type": "WITHDRAWAL", "amount": -1625.3, "currency": "USD", "status": "POSTED"}

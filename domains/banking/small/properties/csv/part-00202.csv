@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+2021,2021 Example Property Road,Chicago,IL,402100.00
+2022,2022 Example Property Road,Austin,TX,402200.00
+2023,2023 Example Property Road,Sacramento,CA,402300.00
+2024,2024 Example Property Road,New York,NY,402400.00
+2025,2025 Example Property Road,Chicago,IL,402500.00
+2026,2026 Example Property Road,Austin,TX,402600.00
+2027,2027 Example Property Road,Sacramento,CA,402700.00
+2028,2028 Example Property Road,New York,NY,402800.00
+2029,2029 Example Property Road,Chicago,IL,402900.00
+2030,2030 Example Property Road,Austin,TX,403000.00

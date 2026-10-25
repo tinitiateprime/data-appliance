@@ -1,0 +1,142 @@
+# Banking scale model
+
+Subtype tables contain dated snapshots, not additional unique accounts or loans.
+
+```mermaid
+erDiagram
+    customers {
+        bigint customer_id PK
+        text customer_name
+        date dob
+        text phone_number
+        text gender
+        text email
+    }
+    customer_address {
+        bigint address_id PK
+        bigint customer_id FK
+        text address_line
+        text city
+        text state_code
+        text postal_code
+    }
+    customers ||--o{ customer_address : "customer_id"
+    branches {
+        bigint branch_id PK
+        text branch_name
+        text city
+        text state_code
+    }
+    account_products {
+        bigint product_id PK
+        text product_name
+        text account_type
+        decimal annual_rate
+    }
+    accounts {
+        bigint account_id PK
+        bigint product_id FK
+        bigint branch_id FK
+        date opened_date
+        text currency
+        text status
+    }
+    account_products ||--o{ accounts : "product_id"
+    branches ||--o{ accounts : "branch_id"
+    account_owners {
+        bigint ownership_id PK
+        bigint account_id FK
+        bigint customer_id FK
+        text owner_role
+    }
+    accounts ||--o{ account_owners : "account_id"
+    customers ||--o{ account_owners : "customer_id"
+    checking_accounts {
+        bigint snapshot_id PK
+        bigint account_id FK
+        decimal overdraft_limit
+        boolean debit_card_enabled
+        date snapshot_date
+    }
+    accounts ||--o{ checking_accounts : "account_id"
+    savings_accounts {
+        bigint snapshot_id PK
+        bigint account_id FK
+        decimal minimum_balance
+        int withdrawal_limit
+        date snapshot_date
+    }
+    accounts ||--o{ savings_accounts : "account_id"
+    properties {
+        bigint property_id PK
+        text address_line
+        text city
+        text state_code
+        decimal appraised_value
+    }
+    vehicles {
+        bigint vehicle_id PK
+        text vehicle_reference
+        text manufacturer
+        int model_year
+        decimal vehicle_value
+    }
+    loans {
+        bigint loan_id PK
+        bigint customer_id FK
+        bigint branch_id FK
+        text loan_type
+        decimal principal
+        decimal annual_rate
+        int term_months
+        date origination_date
+        text status
+    }
+    customers ||--o{ loans : "customer_id"
+    branches ||--o{ loans : "branch_id"
+    home_loans {
+        bigint snapshot_id PK
+        bigint loan_id FK
+        bigint property_id FK
+        decimal down_payment
+        date snapshot_date
+    }
+    loans ||--o{ home_loans : "loan_id"
+    properties ||--o{ home_loans : "property_id"
+    personal_loans {
+        bigint snapshot_id PK
+        bigint loan_id FK
+        text purpose
+        boolean unsecured
+        date snapshot_date
+    }
+    loans ||--o{ personal_loans : "loan_id"
+    auto_loans {
+        bigint snapshot_id PK
+        bigint loan_id FK
+        bigint vehicle_id FK
+        decimal down_payment
+        date snapshot_date
+    }
+    loans ||--o{ auto_loans : "loan_id"
+    vehicles ||--o{ auto_loans : "vehicle_id"
+    loan_payments {
+        bigint payment_id PK
+        bigint loan_id FK
+        date due_date
+        decimal principal_amount
+        decimal interest_amount
+        text status
+    }
+    loans ||--o{ loan_payments : "loan_id"
+    account_transactions {
+        bigint transaction_id PK
+        bigint account_id FK
+        date transaction_date
+        text transaction_type
+        decimal amount
+        text currency
+        text status
+    }
+    accounts ||--o{ account_transactions : "account_id"
+```

@@ -1,0 +1,10 @@
+{"transaction_id": 1881, "account_id": 1881, "transaction_date": "2025-02-22", "transaction_type": "DEPOSIT", "amount": 696.97, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1882, "account_id": 1882, "transaction_date": "2025-02-23", "transaction_type": "DEPOSIT", "amount": 697.34, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1883, "account_id": 1883, "transaction_date": "2025-02-24", "transaction_type": "DEPOSIT", "amount": 697.71, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1884, "account_id": 1884, "transaction_date": "2025-02-25", "transaction_type": "DEPOSIT", "amount": 698.08, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1885, "account_id": 1885, "transaction_date": "2025-02-26", "transaction_type": "DEPOSIT", "amount": 698.45, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1886, "account_id": 1886, "transaction_date": "2025-02-27", "transaction_type": "DEPOSIT", "amount": 698.82, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1887, "account_id": 1887, "transaction_date": "2025-02-28", "transaction_type": "DEPOSIT", "amount": 699.19, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1888, "account_id": 1888, "transaction_date": "2025-03-01", "transaction_type": "DEPOSIT", "amount": 699.56, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1889, "account_id": 1889, "transaction_date": "2025-03-02", "transaction_type": "DEPOSIT", "amount": 699.93, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1890, "account_id": 1890, "transaction_date": "2025-03-03", "transaction_type": "DEPOSIT", "amount": 700.3, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 8031, "account_id": 531, "transaction_date": "2025-12-21", "transaction_type": "WITHDRAWAL", "amount": -972.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8032, "account_id": 532, "transaction_date": "2025-12-22", "transaction_type": "WITHDRAWAL", "amount": -972.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8033, "account_id": 533, "transaction_date": "2025-12-23", "transaction_type": "WITHDRAWAL", "amount": -973.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8034, "account_id": 534, "transaction_date": "2025-12-24", "transaction_type": "WITHDRAWAL", "amount": -973.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8035, "account_id": 535, "transaction_date": "2025-12-25", "transaction_type": "WITHDRAWAL", "amount": -973.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8036, "account_id": 536, "transaction_date": "2025-12-26", "transaction_type": "WITHDRAWAL", "amount": -974.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8037, "account_id": 537, "transaction_date": "2025-12-27", "transaction_type": "WITHDRAWAL", "amount": -974.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8038, "account_id": 538, "transaction_date": "2025-12-28", "transaction_type": "WITHDRAWAL", "amount": -975.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8039, "account_id": 539, "transaction_date": "2025-12-29", "transaction_type": "WITHDRAWAL", "amount": -975.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8040, "account_id": 540, "transaction_date": "2025-12-30", "transaction_type": "WITHDRAWAL", "amount": -975.8, "currency": "USD", "status": "POSTED"}

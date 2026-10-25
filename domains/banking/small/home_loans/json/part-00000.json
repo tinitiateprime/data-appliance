@@ -1,0 +1,10 @@
+{"snapshot_id": 1, "loan_id": 1, "property_id": 1, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 2, "loan_id": 4, "property_id": 4, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 3, "loan_id": 7, "property_id": 7, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 4, "loan_id": 10, "property_id": 10, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 5, "loan_id": 13, "property_id": 13, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 6, "loan_id": 16, "property_id": 16, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 7, "loan_id": 19, "property_id": 19, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 8, "loan_id": 22, "property_id": 22, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 9, "loan_id": 25, "property_id": 25, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}
+{"snapshot_id": 10, "loan_id": 28, "property_id": 28, "down_payment": 50000.0, "snapshot_date": "2024-01-01"}

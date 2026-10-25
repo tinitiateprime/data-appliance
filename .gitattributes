@@ -1,4 +1,5 @@
 # Preserve generated data bytes so manifest SHA-256 checksums survive checkout.
-domains/banking/csv/** -text whitespace=cr-at-eol
-domains/banking/json/** -text
-domains/banking/parquet/** -text
+domains/banking/large/** -text
+domains/banking/small/** -text
+domains/banking/large/**/csv/** whitespace=cr-at-eol
+domains/banking/small/**/csv/** whitespace=cr-at-eol

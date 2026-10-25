@@ -1,80 +1,90 @@
-# Banking domain — synthetic training data
+# Banking domain — large and small datasets for every table
 
-Consumer banking teaching data covering checking accounts, savings accounts, home loans, personal loans and auto loans. This is not actual customer information or a representation of Chase's internal systems or current products.
+All **16 banking tables** have separate `large` and `small` file sets in CSV, newline-delimited JSON and Parquet.
 
-## Files for each format
-
-| Transaction layout | Files | Records per file | Total records |
+| Layout | Files per table per format | Rows per file | Rows per table per format |
 |---|---:|---:|---:|
-| Small | 1,000 | 10 | 10,000 |
-| Large | 10 | 100,000 | 1,000,000 |
+| [large](large/) | 10 | 100,000 | 1,000,000 |
+| [small](small/) | 1,000 | 10 | 10,000 |
 
-These counts apply separately to **[CSV](csv/)**, **[JSON](json/)** and **[Parquet](parquet/)**. JSON is newline-delimited; CSV headers are not counted as records. The small set is the first 10,000 transactions of the large set, so do not append both sets to the same target.
+There are **48,480 data files** in total: 480 large files and 48,000 small files. CSV headers do not count as records. Dates and decimal values agree across formats.
+
+## Folder structure
 
 ```text
 domains/banking/
-  csv/                         # json/ and parquet/ have the same structure
-    reference/<table>/part-00000.csv
-    small/account_transactions/part-00000.csv ... part-00999.csv
-    large/account_transactions/part-00000.csv ... part-00009.csv
-  schema.sql
-  erd.mmd
-  manifest.json
-  validation_report.json
+  large/
+    customers/
+      csv/part-00000.csv ... part-00009.csv
+      json/part-00000.json ... part-00009.json
+      parquet/part-00000.parquet ... part-00009.parquet
+    accounts/...
+    ...one folder for every table
+  small/
+    customers/
+      csv/part-00000.csv ... part-00999.csv
+      json/part-00000.json ... part-00999.json
+      parquet/part-00000.parquet ... part-00999.parquet
+    accounts/...
+    ...one folder for every table
 ```
 
-## Supporting tables
+| Table | Large set | Small set | Grain |
+|---|---|---|---|
+| customers | [Files](large/customers/) | [Files](small/customers/) | Customer |
+| customer_address | [Files](large/customer_address/) | [Files](small/customer_address/) | Customer address |
+| branches | [Files](large/branches/) | [Files](small/branches/) | Synthetic branch |
+| account_products | [Files](large/account_products/) | [Files](small/account_products/) | Synthetic checking/savings product |
+| accounts | [Files](large/accounts/) | [Files](small/accounts/) | Deposit account |
+| account_owners | [Files](large/account_owners/) | [Files](small/account_owners/) | Primary ownership relationship |
+| checking_accounts | [Files](large/checking_accounts/) | [Files](small/checking_accounts/) | Dated checking-account snapshot |
+| savings_accounts | [Files](large/savings_accounts/) | [Files](small/savings_accounts/) | Dated savings-account snapshot |
+| properties | [Files](large/properties/) | [Files](small/properties/) | Synthetic property |
+| vehicles | [Files](large/vehicles/) | [Files](small/vehicles/) | Synthetic vehicle |
+| loans | [Files](large/loans/) | [Files](small/loans/) | Home, personal or auto loan |
+| home_loans | [Files](large/home_loans/) | [Files](small/home_loans/) | Dated home-loan snapshot |
+| personal_loans | [Files](large/personal_loans/) | [Files](small/personal_loans/) | Dated personal-loan snapshot |
+| auto_loans | [Files](large/auto_loans/) | [Files](small/auto_loans/) | Dated auto-loan snapshot |
+| loan_payments | [Files](large/loan_payments/) | [Files](small/loan_payments/) | One scheduled installment per loan |
+| account_transactions | [Files](large/account_transactions/) | [Files](small/account_transactions/) | Signed account posting |
 
-Each supporting table has one file per format under `reference/`.
+## Dated snapshots preserve valid relationships
 
-| Table | Rows |
-|---|---:|
-| customers | 10,000 |
-| customer_address | 10,000 |
-| branches | 100 |
-| account_products | 4 |
-| accounts | 25,833 |
-| account_owners | 28,416 |
-| checking_accounts | 13,333 |
-| savings_accounts | 12,500 |
-| properties | 2,000 |
-| vehicles | 3,000 |
-| loans | 11,000 |
-| home_loans | 2,000 |
-| personal_loans | 6,000 |
-| auto_loans | 3,000 |
-| loan_payments | 66,000 |
+Checking and savings tables reference only matching account types. Home, personal and auto tables reference only matching loan types. These five tables have `snapshot_id` as primary key, plus their parent ID and `snapshot_date`. The pair `(parent_id, snapshot_date)` is unique.
 
-Customers can own multiple accounts, and some accounts have joint owners. Some customers have multiple loan types; 4,000 customers have no loans. Every account has deposits and withdrawals in the million-row transaction set. Loan payments are the first six illustrative scheduled equal-principal installments, not payments received or a full amortization schedule.
+There are multiple snapshots per qualifying parent, allowing each subtype table to contain the same requested number of rows without inventing extra parent IDs or classifying the same account as both savings and checking. Select the latest snapshot per parent, or a particular snapshot date, before analytical joins to avoid multiplying fact rows.
+
+## Independent layout populations
+
+The large set has one million customer rows; the small set has ten thousand. All foreign keys stay within their own layout. The two layouts overlap in primary keys, and small snapshot values are not necessarily a prefix of large snapshot values. **Load large and small into separate schemas or namespaces.** Do not append them together.
+
+Each active account-owning customer has four accounts: two checking and two savings; other customers have no deposit account. Each account has one primary owner. The schema supports joint owners, but this equal-count fixture does not populate them. Borrowers generally have one loan of each type, with a possible partial final group; other customers have no loans. Transactions include deposits and withdrawals for a subset of accounts, and other accounts have no events in this window.
+
+This is a synthetic file-volume exercise. Branch/product/collateral populations are intentionally inflated to meet exact file counts. It is not a realistic market distribution, actual customer data, or Chase's internal schema/product catalog. Rates and withdrawal limits are invented training values. Loan payments are scheduled illustrative equal-principal installments, not receipts or complete amortization schedules.
 
 ## Schema and validation
 
-- [PostgreSQL DDL](schema.sql), in parent-before-child order.
-- [Mermaid ER diagram source](erd.mmd).
-- [Manifest](manifest.json), with file paths, row counts, bytes and SHA-256 checksums. Paths are relative to this banking directory.
-- [Validation report](validation_report.json): all 3,075 data files checked, formats matched, and relationships validated offline.
+- [Large-layout PostgreSQL DDL](schema_large.sql): `banking_large` schema.
+- [Small-layout PostgreSQL DDL](schema_small.sql): `banking_small` schema.
+- [Rendered Mermaid ER diagram](ERD.md) and [diagram source](erd.mmd).
+- [Manifest](manifest.json): relative paths, row counts, byte sizes and SHA-256 for every data file.
+- [Validation report](validation_report.json): all data files, cross-format equivalence, primary/foreign keys and snapshot checks.
 
-The SQL and relational fixtures were checked with an offline relational oracle; this report does not claim execution against live PostgreSQL or Spark services. File bytes are preserved by repository `.gitattributes` so checksum verification remains valid on Windows and Linux.
+Validation is offline. It does not claim live Spark/PostgreSQL/FTP/S3 execution. The small layout's schema was also exercised with an adapted SQLite relational oracle, including rejection of duplicate parent/date snapshots. Repository Git attributes preserve data bytes and checksums across checkouts.
 
-## Use locally
+## Load files in PySpark
 
-Clone the repository to download the full dataset:
-
-```bash
-git clone https://github.com/tinitiateprime/data-appliance.git
-```
-
-In an existing PySpark session, read the typed Parquet files:
+Clone this repository, then run in a configured Spark session:
 
 ```python
 from pathlib import Path
 root = Path('data-appliance/domains/banking').resolve().as_uri()
-small = spark.read.parquet(root + '/parquet/small/account_transactions/part-*.parquet')
-large = spark.read.parquet(root + '/parquet/large/account_transactions/part-*.parquet')
-assert small.count() == 10000
-assert large.count() == 1000000
+small_customers = spark.read.parquet(root + '/small/customers/parquet/part-*.parquet')
+large_accounts = spark.read.parquet(root + '/large/accounts/parquet/part-*.parquet')
+assert small_customers.count() == 10000
+assert large_accounts.count() == 1000000
 ```
 
-Set `root` to your checkout location. For CSV and JSON, provide an explicit schema for identifiers, dates and decimal amounts. Run a wildcard read inside one table/layout, not across the banking directory.
+Adjust the root to your checkout. Supply explicit typed schemas when reading CSV or JSON. A wildcard read should target one table, format and layout. File count is not necessarily Spark task count.
 
-The generated files total about 269 MiB. “Large” is relative to the ten-row files; actual scan partition counts depend on file sizes, formats and Spark configuration.
+The large and small sets differ in total volume as well as physical file count. To isolate small-file overhead in a benchmark, create two physical layouts of the same logical records. These files replace the earlier v2 `csv/reference`, `csv/small`, `csv/large` hierarchy; that revision remains in Git history.

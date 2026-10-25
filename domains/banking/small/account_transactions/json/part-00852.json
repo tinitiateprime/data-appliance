@@ -1,0 +1,10 @@
+{"transaction_id": 8521, "account_id": 1021, "transaction_date": "2025-04-24", "transaction_type": "WITHDRAWAL", "amount": -1153.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8522, "account_id": 1022, "transaction_date": "2025-04-25", "transaction_type": "WITHDRAWAL", "amount": -1154.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8523, "account_id": 1023, "transaction_date": "2025-04-26", "transaction_type": "WITHDRAWAL", "amount": -1154.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8524, "account_id": 1024, "transaction_date": "2025-04-27", "transaction_type": "WITHDRAWAL", "amount": -1154.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8525, "account_id": 1025, "transaction_date": "2025-04-28", "transaction_type": "WITHDRAWAL", "amount": -1155.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8526, "account_id": 1026, "transaction_date": "2025-04-29", "transaction_type": "WITHDRAWAL", "amount": -1155.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8527, "account_id": 1027, "transaction_date": "2025-04-30", "transaction_type": "WITHDRAWAL", "amount": -1155.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8528, "account_id": 1028, "transaction_date": "2025-05-01", "transaction_type": "WITHDRAWAL", "amount": -1156.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8529, "account_id": 1029, "transaction_date": "2025-05-02", "transaction_type": "WITHDRAWAL", "amount": -1156.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8530, "account_id": 1030, "transaction_date": "2025-05-03", "transaction_type": "WITHDRAWAL", "amount": -1157.1, "currency": "USD", "status": "POSTED"}

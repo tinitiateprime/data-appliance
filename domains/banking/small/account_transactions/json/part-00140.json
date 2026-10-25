@@ -1,0 +1,10 @@
+{"transaction_id": 1401, "account_id": 1401, "transaction_date": "2025-10-31", "transaction_type": "DEPOSIT", "amount": 519.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1402, "account_id": 1402, "transaction_date": "2025-11-01", "transaction_type": "DEPOSIT", "amount": 519.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1403, "account_id": 1403, "transaction_date": "2025-11-02", "transaction_type": "DEPOSIT", "amount": 520.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1404, "account_id": 1404, "transaction_date": "2025-11-03", "transaction_type": "DEPOSIT", "amount": 520.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1405, "account_id": 1405, "transaction_date": "2025-11-04", "transaction_type": "DEPOSIT", "amount": 520.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1406, "account_id": 1406, "transaction_date": "2025-11-05", "transaction_type": "DEPOSIT", "amount": 521.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1407, "account_id": 1407, "transaction_date": "2025-11-06", "transaction_type": "DEPOSIT", "amount": 521.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1408, "account_id": 1408, "transaction_date": "2025-11-07", "transaction_type": "DEPOSIT", "amount": 521.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1409, "account_id": 1409, "transaction_date": "2025-11-08", "transaction_type": "DEPOSIT", "amount": 522.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1410, "account_id": 1410, "transaction_date": "2025-11-09", "transaction_type": "DEPOSIT", "amount": 522.7, "currency": "USD", "status": "POSTED"}

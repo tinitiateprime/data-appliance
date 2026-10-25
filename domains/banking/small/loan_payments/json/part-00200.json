@@ -1,0 +1,10 @@
+{"payment_id": 2001, "loan_id": 2001, "due_date": "2024-02-01", "principal_amount": 335.0, "interest_amount": 134.0, "status": "SCHEDULED"}
+{"payment_id": 2002, "loan_id": 2002, "due_date": "2024-02-01", "principal_amount": 556.11, "interest_amount": 1001.0, "status": "SCHEDULED"}
+{"payment_id": 2003, "loan_id": 2003, "due_date": "2024-02-01", "principal_amount": 147.22, "interest_amount": 53.0, "status": "SCHEDULED"}
+{"payment_id": 2004, "loan_id": 2004, "due_date": "2024-02-01", "principal_amount": 340.0, "interest_amount": 136.0, "status": "SCHEDULED"}
+{"payment_id": 2005, "loan_id": 2005, "due_date": "2024-02-01", "principal_amount": 556.94, "interest_amount": 1002.5, "status": "SCHEDULED"}
+{"payment_id": 2006, "loan_id": 2006, "due_date": "2024-02-01", "principal_amount": 155.56, "interest_amount": 56.0, "status": "SCHEDULED"}
+{"payment_id": 2007, "loan_id": 2007, "due_date": "2024-02-01", "principal_amount": 345.0, "interest_amount": 138.0, "status": "SCHEDULED"}
+{"payment_id": 2008, "loan_id": 2008, "due_date": "2024-02-01", "principal_amount": 557.78, "interest_amount": 1004.0, "status": "SCHEDULED"}
+{"payment_id": 2009, "loan_id": 2009, "due_date": "2024-02-01", "principal_amount": 163.89, "interest_amount": 59.0, "status": "SCHEDULED"}
+{"payment_id": 2010, "loan_id": 2010, "due_date": "2024-02-01", "principal_amount": 350.0, "interest_amount": 140.0, "status": "SCHEDULED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 7651, "account_id": 151, "transaction_date": "2024-12-06", "transaction_type": "WITHDRAWAL", "amount": -831.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7652, "account_id": 152, "transaction_date": "2024-12-07", "transaction_type": "WITHDRAWAL", "amount": -832.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7653, "account_id": 153, "transaction_date": "2024-12-08", "transaction_type": "WITHDRAWAL", "amount": -832.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7654, "account_id": 154, "transaction_date": "2024-12-09", "transaction_type": "WITHDRAWAL", "amount": -832.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7655, "account_id": 155, "transaction_date": "2024-12-10", "transaction_type": "WITHDRAWAL", "amount": -833.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7656, "account_id": 156, "transaction_date": "2024-12-11", "transaction_type": "WITHDRAWAL", "amount": -833.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7657, "account_id": 157, "transaction_date": "2024-12-12", "transaction_type": "WITHDRAWAL", "amount": -834.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7658, "account_id": 158, "transaction_date": "2024-12-13", "transaction_type": "WITHDRAWAL", "amount": -834.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7659, "account_id": 159, "transaction_date": "2024-12-14", "transaction_type": "WITHDRAWAL", "amount": -834.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7660, "account_id": 160, "transaction_date": "2024-12-15", "transaction_type": "WITHDRAWAL", "amount": -835.2, "currency": "USD", "status": "POSTED"}

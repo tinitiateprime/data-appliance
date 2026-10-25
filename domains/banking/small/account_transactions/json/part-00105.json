@@ -1,0 +1,10 @@
+{"transaction_id": 1051, "account_id": 1051, "transaction_date": "2024-11-15", "transaction_type": "DEPOSIT", "amount": 389.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1052, "account_id": 1052, "transaction_date": "2024-11-16", "transaction_type": "DEPOSIT", "amount": 390.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1053, "account_id": 1053, "transaction_date": "2024-11-17", "transaction_type": "DEPOSIT", "amount": 390.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1054, "account_id": 1054, "transaction_date": "2024-11-18", "transaction_type": "DEPOSIT", "amount": 390.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1055, "account_id": 1055, "transaction_date": "2024-11-19", "transaction_type": "DEPOSIT", "amount": 391.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1056, "account_id": 1056, "transaction_date": "2024-11-20", "transaction_type": "DEPOSIT", "amount": 391.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1057, "account_id": 1057, "transaction_date": "2024-11-21", "transaction_type": "DEPOSIT", "amount": 392.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1058, "account_id": 1058, "transaction_date": "2024-11-22", "transaction_type": "DEPOSIT", "amount": 392.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1059, "account_id": 1059, "transaction_date": "2024-11-23", "transaction_type": "DEPOSIT", "amount": 392.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1060, "account_id": 1060, "transaction_date": "2024-11-24", "transaction_type": "DEPOSIT", "amount": 393.2, "currency": "USD", "status": "POSTED"}

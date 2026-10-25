@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+2081,2081 Example Property Road,Chicago,IL,408100.00
+2082,2082 Example Property Road,Austin,TX,408200.00
+2083,2083 Example Property Road,Sacramento,CA,408300.00
+2084,2084 Example Property Road,New York,NY,408400.00
+2085,2085 Example Property Road,Chicago,IL,408500.00
+2086,2086 Example Property Road,Austin,TX,408600.00
+2087,2087 Example Property Road,Sacramento,CA,408700.00
+2088,2088 Example Property Road,New York,NY,408800.00
+2089,2089 Example Property Road,Chicago,IL,408900.00
+2090,2090 Example Property Road,Austin,TX,409000.00

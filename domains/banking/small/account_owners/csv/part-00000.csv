@@ -1,0 +1,11 @@
+ownership_id,account_id,customer_id,owner_role
+1,1,1,PRIMARY
+2,2,1,PRIMARY
+3,3,1,PRIMARY
+4,4,1,PRIMARY
+5,5,2,PRIMARY
+6,6,2,PRIMARY
+7,7,2,PRIMARY
+8,8,2,PRIMARY
+9,9,3,PRIMARY
+10,10,3,PRIMARY

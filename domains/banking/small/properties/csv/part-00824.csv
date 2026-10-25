@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+8241,8241 Example Property Road,Chicago,IL,424100.00
+8242,8242 Example Property Road,Austin,TX,424200.00
+8243,8243 Example Property Road,Sacramento,CA,424300.00
+8244,8244 Example Property Road,New York,NY,424400.00
+8245,8245 Example Property Road,Chicago,IL,424500.00
+8246,8246 Example Property Road,Austin,TX,424600.00
+8247,8247 Example Property Road,Sacramento,CA,424700.00
+8248,8248 Example Property Road,New York,NY,424800.00
+8249,8249 Example Property Road,Chicago,IL,424900.00
+8250,8250 Example Property Road,Austin,TX,425000.00

@@ -1,0 +1,11 @@
+property_id,address_line,city,state_code,appraised_value
+4111,4111 Example Property Road,Sacramento,CA,411100.00
+4112,4112 Example Property Road,New York,NY,411200.00
+4113,4113 Example Property Road,Chicago,IL,411300.00
+4114,4114 Example Property Road,Austin,TX,411400.00
+4115,4115 Example Property Road,Sacramento,CA,411500.00
+4116,4116 Example Property Road,New York,NY,411600.00
+4117,4117 Example Property Road,Chicago,IL,411700.00
+4118,4118 Example Property Road,Austin,TX,411800.00
+4119,4119 Example Property Road,Sacramento,CA,411900.00
+4120,4120 Example Property Road,New York,NY,412000.00

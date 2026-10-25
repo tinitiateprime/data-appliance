@@ -1,0 +1,10 @@
+{"transaction_id": 9011, "account_id": 1511, "transaction_date": "2024-08-26", "transaction_type": "WITHDRAWAL", "amount": -1335.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9012, "account_id": 1512, "transaction_date": "2024-08-27", "transaction_type": "WITHDRAWAL", "amount": -1335.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9013, "account_id": 1513, "transaction_date": "2024-08-28", "transaction_type": "WITHDRAWAL", "amount": -1335.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9014, "account_id": 1514, "transaction_date": "2024-08-29", "transaction_type": "WITHDRAWAL", "amount": -1336.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9015, "account_id": 1515, "transaction_date": "2024-08-30", "transaction_type": "WITHDRAWAL", "amount": -1336.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9016, "account_id": 1516, "transaction_date": "2024-08-31", "transaction_type": "WITHDRAWAL", "amount": -1336.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9017, "account_id": 1517, "transaction_date": "2024-09-01", "transaction_type": "WITHDRAWAL", "amount": -1337.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9018, "account_id": 1518, "transaction_date": "2024-09-02", "transaction_type": "WITHDRAWAL", "amount": -1337.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9019, "account_id": 1519, "transaction_date": "2024-09-03", "transaction_type": "WITHDRAWAL", "amount": -1338.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9020, "account_id": 1520, "transaction_date": "2024-09-04", "transaction_type": "WITHDRAWAL", "amount": -1338.4, "currency": "USD", "status": "POSTED"}

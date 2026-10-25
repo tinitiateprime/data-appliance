@@ -1,0 +1,10 @@
+{"transaction_id": 6101, "account_id": 1101, "transaction_date": "2024-09-09", "transaction_type": "DEPOSIT", "amount": 258.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6102, "account_id": 1102, "transaction_date": "2024-09-10", "transaction_type": "DEPOSIT", "amount": 258.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6103, "account_id": 1103, "transaction_date": "2024-09-11", "transaction_type": "DEPOSIT", "amount": 259.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6104, "account_id": 1104, "transaction_date": "2024-09-12", "transaction_type": "DEPOSIT", "amount": 259.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6105, "account_id": 1105, "transaction_date": "2024-09-13", "transaction_type": "DEPOSIT", "amount": 259.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6106, "account_id": 1106, "transaction_date": "2024-09-14", "transaction_type": "DEPOSIT", "amount": 260.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6107, "account_id": 1107, "transaction_date": "2024-09-15", "transaction_type": "DEPOSIT", "amount": 260.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6108, "account_id": 1108, "transaction_date": "2024-09-16", "transaction_type": "DEPOSIT", "amount": 260.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6109, "account_id": 1109, "transaction_date": "2024-09-17", "transaction_type": "DEPOSIT", "amount": 261.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6110, "account_id": 1110, "transaction_date": "2024-09-18", "transaction_type": "DEPOSIT", "amount": 261.7, "currency": "USD", "status": "POSTED"}

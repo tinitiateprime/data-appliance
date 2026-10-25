@@ -1,0 +1,10 @@
+{"transaction_id": 2501, "account_id": 1, "transaction_date": "2024-11-03", "transaction_type": "WITHDRAWAL", "amount": -926.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2502, "account_id": 2, "transaction_date": "2024-11-04", "transaction_type": "WITHDRAWAL", "amount": -926.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2503, "account_id": 3, "transaction_date": "2024-11-05", "transaction_type": "WITHDRAWAL", "amount": -927.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2504, "account_id": 4, "transaction_date": "2024-11-06", "transaction_type": "WITHDRAWAL", "amount": -927.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2505, "account_id": 5, "transaction_date": "2024-11-07", "transaction_type": "WITHDRAWAL", "amount": -927.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2506, "account_id": 6, "transaction_date": "2024-11-08", "transaction_type": "WITHDRAWAL", "amount": -928.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2507, "account_id": 7, "transaction_date": "2024-11-09", "transaction_type": "WITHDRAWAL", "amount": -928.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2508, "account_id": 8, "transaction_date": "2024-11-10", "transaction_type": "WITHDRAWAL", "amount": -928.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2509, "account_id": 9, "transaction_date": "2024-11-11", "transaction_type": "WITHDRAWAL", "amount": -929.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2510, "account_id": 10, "transaction_date": "2024-11-12", "transaction_type": "WITHDRAWAL", "amount": -929.7, "currency": "USD", "status": "POSTED"}

@@ -4,6 +4,6 @@ Generated teaching data is organized by business domain. Each domain owns its da
 
 | Domain | Contents |
 |---|---|
-| [Banking](banking/) | 10,000 customers, checking/savings accounts, home/personal/auto loans, small and large transaction files |
+| [Banking](banking/) | All 16 tables in large/small layouts; checking/savings and home/personal/auto snapshots; CSV/JSON/Parquet |
 
 Banking is the first completed file-generation dataset. Other domains will be added after the banking lessons are finalized.

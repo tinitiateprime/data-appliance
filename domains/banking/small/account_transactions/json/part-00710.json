@@ -1,0 +1,10 @@
+{"transaction_id": 7101, "account_id": 2101, "transaction_date": "2025-06-05", "transaction_type": "DEPOSIT", "amount": 628.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7102, "account_id": 2102, "transaction_date": "2025-06-06", "transaction_type": "DEPOSIT", "amount": 628.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7103, "account_id": 2103, "transaction_date": "2025-06-07", "transaction_type": "DEPOSIT", "amount": 629.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7104, "account_id": 2104, "transaction_date": "2025-06-08", "transaction_type": "DEPOSIT", "amount": 629.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7105, "account_id": 2105, "transaction_date": "2025-06-09", "transaction_type": "DEPOSIT", "amount": 629.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7106, "account_id": 2106, "transaction_date": "2025-06-10", "transaction_type": "DEPOSIT", "amount": 630.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7107, "account_id": 2107, "transaction_date": "2025-06-11", "transaction_type": "DEPOSIT", "amount": 630.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7108, "account_id": 2108, "transaction_date": "2025-06-12", "transaction_type": "DEPOSIT", "amount": 630.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7109, "account_id": 2109, "transaction_date": "2025-06-13", "transaction_type": "DEPOSIT", "amount": 631.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7110, "account_id": 2110, "transaction_date": "2025-06-14", "transaction_type": "DEPOSIT", "amount": 631.7, "currency": "USD", "status": "POSTED"}
