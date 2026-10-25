@@ -62,6 +62,34 @@ This applies the repository's existing DDL, including primary keys, foreign keys
 
 ## 4. First exercise: small customer CSV files
 
+### Upload the entire GitHub dataset in one command
+
+After `git pull`, configuring `.env`, and building the runner, you can upload **all 48,480 data files** instead of selecting individual layouts and formats:
+
+```powershell
+docker compose run --rm runner upload_all_to_floci.py
+```
+
+This reads the files from your GitHub checkout; it does not contact GitHub once the checkout is local. It verifies every local file's SHA-256 against `manifest.json`, uploads both layouts and all three formats, and verifies S3 sizes and content MD5 ETags. This checksum method is intended for Floci's unencrypted single-part uploads. It skips matching objects, replaces differing objects at the dataset's exact keys, and does not delete unrelated keys. Unexpected extra objects under `small/` or `large/` cause verification to fail so they cannot silently join a later load. Use `--workers 4` to reduce upload concurrency from the default 12.
+
+The loader-compatible layout is:
+
+```text
+s3://banking-training/banking/v3/
+  small/<table>/csv/part-00000.csv ... part-00999.csv
+  small/<table>/json/part-00000.json ... part-00999.json
+  small/<table>/parquet/part-00000.parquet ... part-00999.parquet
+  large/<table>/csv/part-00000.csv ... part-00009.csv
+  large/<table>/json/part-00000.json ... part-00009.json
+  large/<table>/parquet/part-00000.parquet ... part-00009.parquet
+  _metadata/manifest.json
+  _metadata/upload_receipt.json
+```
+
+The receipt records the checkout commit, manifest checksum, verified byte total and all table/layout/format file counts. The two metadata objects are outside the loader's data directories. You can rerun this command to verify the upload and send only missing or changed files. Once it reports `VERIFIED`, skip the upload commands below and proceed directly to your chosen database loader. Still choose only **one format per destination table**.
+
+### Upload just one table instead
+
 The checkout already contains the generated data. Upload only customers first:
 
 ```powershell
