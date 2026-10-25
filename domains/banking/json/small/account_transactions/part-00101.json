@@ -1,0 +1,10 @@
+{"transaction_id": 1011, "account_id": 1011, "transaction_date": "2024-10-06", "transaction_type": "DEPOSIT", "amount": 375.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1012, "account_id": 1012, "transaction_date": "2024-10-07", "transaction_type": "WITHDRAWAL", "amount": -375.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1013, "account_id": 1013, "transaction_date": "2024-10-08", "transaction_type": "DEPOSIT", "amount": 375.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1014, "account_id": 1014, "transaction_date": "2024-10-09", "transaction_type": "DEPOSIT", "amount": 376.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1015, "account_id": 1015, "transaction_date": "2024-10-10", "transaction_type": "WITHDRAWAL", "amount": -376.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1016, "account_id": 1016, "transaction_date": "2024-10-11", "transaction_type": "DEPOSIT", "amount": 376.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1017, "account_id": 1017, "transaction_date": "2024-10-12", "transaction_type": "DEPOSIT", "amount": 377.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1018, "account_id": 1018, "transaction_date": "2024-10-13", "transaction_type": "WITHDRAWAL", "amount": -377.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1019, "account_id": 1019, "transaction_date": "2024-10-14", "transaction_type": "DEPOSIT", "amount": 378.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1020, "account_id": 1020, "transaction_date": "2024-10-15", "transaction_type": "DEPOSIT", "amount": 378.4, "currency": "USD", "status": "POSTED"}

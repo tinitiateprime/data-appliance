@@ -1,0 +1,10 @@
+{"transaction_id": 2541, "account_id": 2541, "transaction_date": "2024-12-13", "transaction_type": "DEPOSIT", "amount": 941.17, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2542, "account_id": 2542, "transaction_date": "2024-12-14", "transaction_type": "WITHDRAWAL", "amount": -941.54, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2543, "account_id": 2543, "transaction_date": "2024-12-15", "transaction_type": "DEPOSIT", "amount": 941.91, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2544, "account_id": 2544, "transaction_date": "2024-12-16", "transaction_type": "DEPOSIT", "amount": 942.28, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2545, "account_id": 2545, "transaction_date": "2024-12-17", "transaction_type": "WITHDRAWAL", "amount": -942.65, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2546, "account_id": 2546, "transaction_date": "2024-12-18", "transaction_type": "DEPOSIT", "amount": 943.02, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2547, "account_id": 2547, "transaction_date": "2024-12-19", "transaction_type": "DEPOSIT", "amount": 943.39, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2548, "account_id": 2548, "transaction_date": "2024-12-20", "transaction_type": "WITHDRAWAL", "amount": -943.76, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2549, "account_id": 2549, "transaction_date": "2024-12-21", "transaction_type": "DEPOSIT", "amount": 944.13, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2550, "account_id": 2550, "transaction_date": "2024-12-22", "transaction_type": "DEPOSIT", "amount": 944.5, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 3761, "account_id": 3761, "transaction_date": "2024-04-15", "transaction_type": "DEPOSIT", "amount": 1392.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3762, "account_id": 3762, "transaction_date": "2024-04-16", "transaction_type": "DEPOSIT", "amount": 1392.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3763, "account_id": 3763, "transaction_date": "2024-04-17", "transaction_type": "WITHDRAWAL", "amount": -1393.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3764, "account_id": 3764, "transaction_date": "2024-04-18", "transaction_type": "DEPOSIT", "amount": 1393.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3765, "account_id": 3765, "transaction_date": "2024-04-19", "transaction_type": "DEPOSIT", "amount": 1394.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3766, "account_id": 3766, "transaction_date": "2024-04-20", "transaction_type": "WITHDRAWAL", "amount": -1394.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3767, "account_id": 3767, "transaction_date": "2024-04-21", "transaction_type": "DEPOSIT", "amount": 1394.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3768, "account_id": 3768, "transaction_date": "2024-04-22", "transaction_type": "DEPOSIT", "amount": 1395.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3769, "account_id": 3769, "transaction_date": "2024-04-23", "transaction_type": "WITHDRAWAL", "amount": -1395.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3770, "account_id": 3770, "transaction_date": "2024-04-24", "transaction_type": "DEPOSIT", "amount": 1395.9, "currency": "USD", "status": "POSTED"}

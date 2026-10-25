@@ -1,0 +1,10 @@
+{"transaction_id": 8171, "account_id": 8171, "transaction_date": "2024-05-09", "transaction_type": "DEPOSIT", "amount": 1024.27, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8172, "account_id": 8172, "transaction_date": "2024-05-10", "transaction_type": "DEPOSIT", "amount": 1024.64, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8173, "account_id": 8173, "transaction_date": "2024-05-11", "transaction_type": "WITHDRAWAL", "amount": -1025.01, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8174, "account_id": 8174, "transaction_date": "2024-05-12", "transaction_type": "DEPOSIT", "amount": 1025.38, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8175, "account_id": 8175, "transaction_date": "2024-05-13", "transaction_type": "DEPOSIT", "amount": 1025.75, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8176, "account_id": 8176, "transaction_date": "2024-05-14", "transaction_type": "WITHDRAWAL", "amount": -1026.12, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8177, "account_id": 8177, "transaction_date": "2024-05-15", "transaction_type": "DEPOSIT", "amount": 1026.49, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8178, "account_id": 8178, "transaction_date": "2024-05-16", "transaction_type": "DEPOSIT", "amount": 1026.86, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8179, "account_id": 8179, "transaction_date": "2024-05-17", "transaction_type": "WITHDRAWAL", "amount": -1027.23, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8180, "account_id": 8180, "transaction_date": "2024-05-18", "transaction_type": "DEPOSIT", "amount": 1027.6, "currency": "USD", "status": "POSTED"}

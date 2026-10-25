@@ -1,0 +1,10 @@
+{"transaction_id": 3531, "account_id": 3531, "transaction_date": "2025-08-29", "transaction_type": "DEPOSIT", "amount": 1307.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3532, "account_id": 3532, "transaction_date": "2025-08-30", "transaction_type": "WITHDRAWAL", "amount": -1307.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3533, "account_id": 3533, "transaction_date": "2025-08-31", "transaction_type": "DEPOSIT", "amount": 1308.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3534, "account_id": 3534, "transaction_date": "2025-09-01", "transaction_type": "DEPOSIT", "amount": 1308.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3535, "account_id": 3535, "transaction_date": "2025-09-02", "transaction_type": "WITHDRAWAL", "amount": -1308.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3536, "account_id": 3536, "transaction_date": "2025-09-03", "transaction_type": "DEPOSIT", "amount": 1309.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3537, "account_id": 3537, "transaction_date": "2025-09-04", "transaction_type": "DEPOSIT", "amount": 1309.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3538, "account_id": 3538, "transaction_date": "2025-09-05", "transaction_type": "WITHDRAWAL", "amount": -1310.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3539, "account_id": 3539, "transaction_date": "2025-09-06", "transaction_type": "DEPOSIT", "amount": 1310.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 3540, "account_id": 3540, "transaction_date": "2025-09-07", "transaction_type": "DEPOSIT", "amount": 1310.8, "currency": "USD", "status": "POSTED"}

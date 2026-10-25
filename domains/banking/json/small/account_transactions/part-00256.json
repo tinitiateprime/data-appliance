@@ -1,0 +1,10 @@
+{"transaction_id": 2561, "account_id": 2561, "transaction_date": "2025-01-02", "transaction_type": "DEPOSIT", "amount": 948.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2562, "account_id": 2562, "transaction_date": "2025-01-03", "transaction_type": "DEPOSIT", "amount": 948.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2563, "account_id": 2563, "transaction_date": "2025-01-04", "transaction_type": "WITHDRAWAL", "amount": -949.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2564, "account_id": 2564, "transaction_date": "2025-01-05", "transaction_type": "DEPOSIT", "amount": 949.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2565, "account_id": 2565, "transaction_date": "2025-01-06", "transaction_type": "DEPOSIT", "amount": 950.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2566, "account_id": 2566, "transaction_date": "2025-01-07", "transaction_type": "WITHDRAWAL", "amount": -950.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2567, "account_id": 2567, "transaction_date": "2025-01-08", "transaction_type": "DEPOSIT", "amount": 950.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2568, "account_id": 2568, "transaction_date": "2025-01-09", "transaction_type": "DEPOSIT", "amount": 951.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2569, "account_id": 2569, "transaction_date": "2025-01-10", "transaction_type": "WITHDRAWAL", "amount": -951.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2570, "account_id": 2570, "transaction_date": "2025-01-11", "transaction_type": "DEPOSIT", "amount": 951.9, "currency": "USD", "status": "POSTED"}

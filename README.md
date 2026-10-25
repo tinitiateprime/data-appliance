@@ -3,12 +3,13 @@
 Practice datasets and SQL examples for learning data ingestion, ETL, CDC,
 lakehouse architecture, and analytics.
 
-The repository contains two learning tracks:
+The repository contains three learning tracks:
 
 | Track | Best for | Technologies |
 | --- | --- | --- |
 | [General data](general-data/) | File-ingestion labs, format comparisons, performance testing, and CDC exercises | CSV, JSON, Parquet, PostgreSQL |
 | [Retail banking](data-appliance-retail_banking/) | A complete Bronze-to-Silver-to-Gold banking project | Databricks, Spark SQL, Delta Lake |
+| [Domain datasets — banking](domains/banking/) | 10,000 customers; 1,000 tiny transaction files and 10 larger transaction files per format | CSV, JSON, Parquet, PostgreSQL DDL |
 
 > The data is intended for training and demonstrations. It does not contain real
 > customer or banking information.
@@ -17,6 +18,8 @@ The repository contains two learning tracks:
 
 ```text
 data-appliance/
+├── domains/
+│   └── banking/   # Generated banking data, schema, manifest and validation report
 ├── general-data/
 │   ├── DDL/
 │   │   └── ddl.sql

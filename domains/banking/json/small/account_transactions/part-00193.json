@@ -1,0 +1,10 @@
+{"transaction_id": 1931, "account_id": 1931, "transaction_date": "2025-04-13", "transaction_type": "DEPOSIT", "amount": 715.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1932, "account_id": 1932, "transaction_date": "2025-04-14", "transaction_type": "DEPOSIT", "amount": 715.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1933, "account_id": 1933, "transaction_date": "2025-04-15", "transaction_type": "WITHDRAWAL", "amount": -716.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1934, "account_id": 1934, "transaction_date": "2025-04-16", "transaction_type": "DEPOSIT", "amount": 716.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1935, "account_id": 1935, "transaction_date": "2025-04-17", "transaction_type": "DEPOSIT", "amount": 716.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1936, "account_id": 1936, "transaction_date": "2025-04-18", "transaction_type": "WITHDRAWAL", "amount": -717.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1937, "account_id": 1937, "transaction_date": "2025-04-19", "transaction_type": "DEPOSIT", "amount": 717.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1938, "account_id": 1938, "transaction_date": "2025-04-20", "transaction_type": "DEPOSIT", "amount": 718.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1939, "account_id": 1939, "transaction_date": "2025-04-21", "transaction_type": "WITHDRAWAL", "amount": -718.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1940, "account_id": 1940, "transaction_date": "2025-04-22", "transaction_type": "DEPOSIT", "amount": 718.8, "currency": "USD", "status": "POSTED"}

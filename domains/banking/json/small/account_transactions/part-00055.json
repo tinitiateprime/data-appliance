@@ -1,0 +1,10 @@
+{"transaction_id": 551, "account_id": 551, "transaction_date": "2025-07-04", "transaction_type": "DEPOSIT", "amount": 204.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 552, "account_id": 552, "transaction_date": "2025-07-05", "transaction_type": "DEPOSIT", "amount": 205.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 553, "account_id": 553, "transaction_date": "2025-07-06", "transaction_type": "WITHDRAWAL", "amount": -205.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 554, "account_id": 554, "transaction_date": "2025-07-07", "transaction_type": "DEPOSIT", "amount": 205.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 555, "account_id": 555, "transaction_date": "2025-07-08", "transaction_type": "DEPOSIT", "amount": 206.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 556, "account_id": 556, "transaction_date": "2025-07-09", "transaction_type": "WITHDRAWAL", "amount": -206.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 557, "account_id": 557, "transaction_date": "2025-07-10", "transaction_type": "DEPOSIT", "amount": 207.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 558, "account_id": 558, "transaction_date": "2025-07-11", "transaction_type": "DEPOSIT", "amount": 207.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 559, "account_id": 559, "transaction_date": "2025-07-12", "transaction_type": "WITHDRAWAL", "amount": -207.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 560, "account_id": 560, "transaction_date": "2025-07-13", "transaction_type": "DEPOSIT", "amount": 208.2, "currency": "USD", "status": "POSTED"}

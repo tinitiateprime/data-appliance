@@ -1,0 +1,10 @@
+{"transaction_id": 6461, "account_id": 6461, "transaction_date": "2025-09-04", "transaction_type": "DEPOSIT", "amount": 391.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6462, "account_id": 6462, "transaction_date": "2025-09-05", "transaction_type": "DEPOSIT", "amount": 391.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6463, "account_id": 6463, "transaction_date": "2025-09-06", "transaction_type": "WITHDRAWAL", "amount": -392.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6464, "account_id": 6464, "transaction_date": "2025-09-07", "transaction_type": "DEPOSIT", "amount": 392.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6465, "account_id": 6465, "transaction_date": "2025-09-08", "transaction_type": "DEPOSIT", "amount": 393.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6466, "account_id": 6466, "transaction_date": "2025-09-09", "transaction_type": "WITHDRAWAL", "amount": -393.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6467, "account_id": 6467, "transaction_date": "2025-09-10", "transaction_type": "DEPOSIT", "amount": 393.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6468, "account_id": 6468, "transaction_date": "2025-09-11", "transaction_type": "DEPOSIT", "amount": 394.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6469, "account_id": 6469, "transaction_date": "2025-09-12", "transaction_type": "WITHDRAWAL", "amount": -394.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6470, "account_id": 6470, "transaction_date": "2025-09-13", "transaction_type": "DEPOSIT", "amount": 394.9, "currency": "USD", "status": "POSTED"}

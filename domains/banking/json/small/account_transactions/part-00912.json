@@ -1,0 +1,10 @@
+{"transaction_id": 9121, "account_id": 9121, "transaction_date": "2024-12-14", "transaction_type": "WITHDRAWAL", "amount": -1375.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9122, "account_id": 9122, "transaction_date": "2024-12-15", "transaction_type": "DEPOSIT", "amount": 1376.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9123, "account_id": 9123, "transaction_date": "2024-12-16", "transaction_type": "DEPOSIT", "amount": 1376.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9124, "account_id": 9124, "transaction_date": "2024-12-17", "transaction_type": "WITHDRAWAL", "amount": -1376.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9125, "account_id": 9125, "transaction_date": "2024-12-18", "transaction_type": "DEPOSIT", "amount": 1377.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9126, "account_id": 9126, "transaction_date": "2024-12-19", "transaction_type": "DEPOSIT", "amount": 1377.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9127, "account_id": 9127, "transaction_date": "2024-12-20", "transaction_type": "WITHDRAWAL", "amount": -1377.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9128, "account_id": 9128, "transaction_date": "2024-12-21", "transaction_type": "DEPOSIT", "amount": 1378.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9129, "account_id": 9129, "transaction_date": "2024-12-22", "transaction_type": "DEPOSIT", "amount": 1378.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9130, "account_id": 9130, "transaction_date": "2024-12-23", "transaction_type": "WITHDRAWAL", "amount": -1379.1, "currency": "USD", "status": "POSTED"}

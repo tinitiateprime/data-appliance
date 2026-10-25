@@ -1,0 +1,10 @@
+{"transaction_id": 1351, "account_id": 1351, "transaction_date": "2025-09-11", "transaction_type": "WITHDRAWAL", "amount": -500.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1352, "account_id": 1352, "transaction_date": "2025-09-12", "transaction_type": "DEPOSIT", "amount": 501.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1353, "account_id": 1353, "transaction_date": "2025-09-13", "transaction_type": "DEPOSIT", "amount": 501.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1354, "account_id": 1354, "transaction_date": "2025-09-14", "transaction_type": "WITHDRAWAL", "amount": -501.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1355, "account_id": 1355, "transaction_date": "2025-09-15", "transaction_type": "DEPOSIT", "amount": 502.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1356, "account_id": 1356, "transaction_date": "2025-09-16", "transaction_type": "DEPOSIT", "amount": 502.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1357, "account_id": 1357, "transaction_date": "2025-09-17", "transaction_type": "WITHDRAWAL", "amount": -503.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1358, "account_id": 1358, "transaction_date": "2025-09-18", "transaction_type": "DEPOSIT", "amount": 503.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1359, "account_id": 1359, "transaction_date": "2025-09-19", "transaction_type": "DEPOSIT", "amount": 503.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1360, "account_id": 1360, "transaction_date": "2025-09-20", "transaction_type": "WITHDRAWAL", "amount": -504.2, "currency": "USD", "status": "POSTED"}

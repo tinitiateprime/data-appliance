@@ -1,0 +1,10 @@
+{"transaction_id": 9301, "account_id": 9301, "transaction_date": "2025-06-12", "transaction_type": "WITHDRAWAL", "amount": -1442.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9302, "account_id": 9302, "transaction_date": "2025-06-13", "transaction_type": "DEPOSIT", "amount": 1442.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9303, "account_id": 9303, "transaction_date": "2025-06-14", "transaction_type": "DEPOSIT", "amount": 1443.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9304, "account_id": 9304, "transaction_date": "2025-06-15", "transaction_type": "WITHDRAWAL", "amount": -1443.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9305, "account_id": 9305, "transaction_date": "2025-06-16", "transaction_type": "DEPOSIT", "amount": 1443.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9306, "account_id": 9306, "transaction_date": "2025-06-17", "transaction_type": "DEPOSIT", "amount": 1444.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9307, "account_id": 9307, "transaction_date": "2025-06-18", "transaction_type": "WITHDRAWAL", "amount": -1444.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9308, "account_id": 9308, "transaction_date": "2025-06-19", "transaction_type": "DEPOSIT", "amount": 1444.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9309, "account_id": 9309, "transaction_date": "2025-06-20", "transaction_type": "DEPOSIT", "amount": 1445.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9310, "account_id": 9310, "transaction_date": "2025-06-21", "transaction_type": "WITHDRAWAL", "amount": -1445.7, "currency": "USD", "status": "POSTED"}

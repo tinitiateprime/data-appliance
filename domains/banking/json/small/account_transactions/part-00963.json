@@ -1,0 +1,10 @@
+{"transaction_id": 9631, "account_id": 9631, "transaction_date": "2024-05-07", "transaction_type": "WITHDRAWAL", "amount": -1564.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9632, "account_id": 9632, "transaction_date": "2024-05-08", "transaction_type": "DEPOSIT", "amount": 1564.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9633, "account_id": 9633, "transaction_date": "2024-05-09", "transaction_type": "DEPOSIT", "amount": 1565.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9634, "account_id": 9634, "transaction_date": "2024-05-10", "transaction_type": "WITHDRAWAL", "amount": -1565.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9635, "account_id": 9635, "transaction_date": "2024-05-11", "transaction_type": "DEPOSIT", "amount": 1565.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9636, "account_id": 9636, "transaction_date": "2024-05-12", "transaction_type": "DEPOSIT", "amount": 1566.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9637, "account_id": 9637, "transaction_date": "2024-05-13", "transaction_type": "WITHDRAWAL", "amount": -1566.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9638, "account_id": 9638, "transaction_date": "2024-05-14", "transaction_type": "DEPOSIT", "amount": 1567.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9639, "account_id": 9639, "transaction_date": "2024-05-15", "transaction_type": "DEPOSIT", "amount": 1567.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9640, "account_id": 9640, "transaction_date": "2024-05-16", "transaction_type": "WITHDRAWAL", "amount": -1567.8, "currency": "USD", "status": "POSTED"}

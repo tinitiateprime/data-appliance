@@ -1,0 +1,10 @@
+{"transaction_id": 2021, "account_id": 2021, "transaction_date": "2025-07-12", "transaction_type": "DEPOSIT", "amount": 748.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2022, "account_id": 2022, "transaction_date": "2025-07-13", "transaction_type": "DEPOSIT", "amount": 749.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2023, "account_id": 2023, "transaction_date": "2025-07-14", "transaction_type": "WITHDRAWAL", "amount": -749.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2024, "account_id": 2024, "transaction_date": "2025-07-15", "transaction_type": "DEPOSIT", "amount": 749.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2025, "account_id": 2025, "transaction_date": "2025-07-16", "transaction_type": "DEPOSIT", "amount": 750.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2026, "account_id": 2026, "transaction_date": "2025-07-17", "transaction_type": "WITHDRAWAL", "amount": -750.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2027, "account_id": 2027, "transaction_date": "2025-07-18", "transaction_type": "DEPOSIT", "amount": 750.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2028, "account_id": 2028, "transaction_date": "2025-07-19", "transaction_type": "DEPOSIT", "amount": 751.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2029, "account_id": 2029, "transaction_date": "2025-07-20", "transaction_type": "WITHDRAWAL", "amount": -751.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2030, "account_id": 2030, "transaction_date": "2025-07-21", "transaction_type": "DEPOSIT", "amount": 752.1, "currency": "USD", "status": "POSTED"}

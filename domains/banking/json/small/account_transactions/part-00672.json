@@ -1,0 +1,10 @@
+{"transaction_id": 6721, "account_id": 6721, "transaction_date": "2024-05-21", "transaction_type": "WITHDRAWAL", "amount": -487.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6722, "account_id": 6722, "transaction_date": "2024-05-22", "transaction_type": "DEPOSIT", "amount": 488.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6723, "account_id": 6723, "transaction_date": "2024-05-23", "transaction_type": "DEPOSIT", "amount": 488.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6724, "account_id": 6724, "transaction_date": "2024-05-24", "transaction_type": "WITHDRAWAL", "amount": -488.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6725, "account_id": 6725, "transaction_date": "2024-05-25", "transaction_type": "DEPOSIT", "amount": 489.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6726, "account_id": 6726, "transaction_date": "2024-05-26", "transaction_type": "DEPOSIT", "amount": 489.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6727, "account_id": 6727, "transaction_date": "2024-05-27", "transaction_type": "WITHDRAWAL", "amount": -489.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6728, "account_id": 6728, "transaction_date": "2024-05-28", "transaction_type": "DEPOSIT", "amount": 490.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6729, "account_id": 6729, "transaction_date": "2024-05-29", "transaction_type": "DEPOSIT", "amount": 490.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6730, "account_id": 6730, "transaction_date": "2024-05-30", "transaction_type": "WITHDRAWAL", "amount": -491.1, "currency": "USD", "status": "POSTED"}

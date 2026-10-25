@@ -1,0 +1,10 @@
+{"transaction_id": 331, "account_id": 331, "transaction_date": "2024-11-26", "transaction_type": "WITHDRAWAL", "amount": -123.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 332, "account_id": 332, "transaction_date": "2024-11-27", "transaction_type": "DEPOSIT", "amount": 123.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 333, "account_id": 333, "transaction_date": "2024-11-28", "transaction_type": "DEPOSIT", "amount": 124.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 334, "account_id": 334, "transaction_date": "2024-11-29", "transaction_type": "WITHDRAWAL", "amount": -124.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 335, "account_id": 335, "transaction_date": "2024-11-30", "transaction_type": "DEPOSIT", "amount": 124.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 336, "account_id": 336, "transaction_date": "2024-12-01", "transaction_type": "DEPOSIT", "amount": 125.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 337, "account_id": 337, "transaction_date": "2024-12-02", "transaction_type": "WITHDRAWAL", "amount": -125.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 338, "account_id": 338, "transaction_date": "2024-12-03", "transaction_type": "DEPOSIT", "amount": 126.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 339, "account_id": 339, "transaction_date": "2024-12-04", "transaction_type": "DEPOSIT", "amount": 126.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 340, "account_id": 340, "transaction_date": "2024-12-05", "transaction_type": "WITHDRAWAL", "amount": -126.8, "currency": "USD", "status": "POSTED"}

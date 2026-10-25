@@ -1,0 +1,10 @@
+{"transaction_id": 1601, "account_id": 1601, "transaction_date": "2024-05-18", "transaction_type": "DEPOSIT", "amount": 593.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1602, "account_id": 1602, "transaction_date": "2024-05-19", "transaction_type": "DEPOSIT", "amount": 593.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1603, "account_id": 1603, "transaction_date": "2024-05-20", "transaction_type": "WITHDRAWAL", "amount": -594.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1604, "account_id": 1604, "transaction_date": "2024-05-21", "transaction_type": "DEPOSIT", "amount": 594.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1605, "account_id": 1605, "transaction_date": "2024-05-22", "transaction_type": "DEPOSIT", "amount": 594.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1606, "account_id": 1606, "transaction_date": "2024-05-23", "transaction_type": "WITHDRAWAL", "amount": -595.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1607, "account_id": 1607, "transaction_date": "2024-05-24", "transaction_type": "DEPOSIT", "amount": 595.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1608, "account_id": 1608, "transaction_date": "2024-05-25", "transaction_type": "DEPOSIT", "amount": 595.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1609, "account_id": 1609, "transaction_date": "2024-05-26", "transaction_type": "WITHDRAWAL", "amount": -596.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1610, "account_id": 1610, "transaction_date": "2024-05-27", "transaction_type": "DEPOSIT", "amount": 596.7, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 8931, "account_id": 8931, "transaction_date": "2024-06-07", "transaction_type": "DEPOSIT", "amount": 1305.47, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8932, "account_id": 8932, "transaction_date": "2024-06-08", "transaction_type": "WITHDRAWAL", "amount": -1305.84, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8933, "account_id": 8933, "transaction_date": "2024-06-09", "transaction_type": "DEPOSIT", "amount": 1306.21, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8934, "account_id": 8934, "transaction_date": "2024-06-10", "transaction_type": "DEPOSIT", "amount": 1306.58, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8935, "account_id": 8935, "transaction_date": "2024-06-11", "transaction_type": "WITHDRAWAL", "amount": -1306.95, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8936, "account_id": 8936, "transaction_date": "2024-06-12", "transaction_type": "DEPOSIT", "amount": 1307.32, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8937, "account_id": 8937, "transaction_date": "2024-06-13", "transaction_type": "DEPOSIT", "amount": 1307.69, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8938, "account_id": 8938, "transaction_date": "2024-06-14", "transaction_type": "WITHDRAWAL", "amount": -1308.06, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8939, "account_id": 8939, "transaction_date": "2024-06-15", "transaction_type": "DEPOSIT", "amount": 1308.43, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8940, "account_id": 8940, "transaction_date": "2024-06-16", "transaction_type": "DEPOSIT", "amount": 1308.8, "currency": "USD", "status": "POSTED"}

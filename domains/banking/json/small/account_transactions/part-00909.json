@@ -1,0 +1,10 @@
+{"transaction_id": 9091, "account_id": 9091, "transaction_date": "2024-11-14", "transaction_type": "WITHDRAWAL", "amount": -1364.67, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9092, "account_id": 9092, "transaction_date": "2024-11-15", "transaction_type": "DEPOSIT", "amount": 1365.04, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9093, "account_id": 9093, "transaction_date": "2024-11-16", "transaction_type": "DEPOSIT", "amount": 1365.41, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9094, "account_id": 9094, "transaction_date": "2024-11-17", "transaction_type": "WITHDRAWAL", "amount": -1365.78, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9095, "account_id": 9095, "transaction_date": "2024-11-18", "transaction_type": "DEPOSIT", "amount": 1366.15, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9096, "account_id": 9096, "transaction_date": "2024-11-19", "transaction_type": "DEPOSIT", "amount": 1366.52, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9097, "account_id": 9097, "transaction_date": "2024-11-20", "transaction_type": "WITHDRAWAL", "amount": -1366.89, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9098, "account_id": 9098, "transaction_date": "2024-11-21", "transaction_type": "DEPOSIT", "amount": 1367.26, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9099, "account_id": 9099, "transaction_date": "2024-11-22", "transaction_type": "DEPOSIT", "amount": 1367.63, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9100, "account_id": 9100, "transaction_date": "2024-11-23", "transaction_type": "WITHDRAWAL", "amount": -1368.0, "currency": "USD", "status": "POSTED"}

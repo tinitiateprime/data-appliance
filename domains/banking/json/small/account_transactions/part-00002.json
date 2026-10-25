@@ -1,0 +1,10 @@
+{"transaction_id": 21, "account_id": 21, "transaction_date": "2024-01-21", "transaction_type": "DEPOSIT", "amount": 8.77, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 22, "account_id": 22, "transaction_date": "2024-01-22", "transaction_type": "WITHDRAWAL", "amount": -9.14, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 23, "account_id": 23, "transaction_date": "2024-01-23", "transaction_type": "DEPOSIT", "amount": 9.51, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 24, "account_id": 24, "transaction_date": "2024-01-24", "transaction_type": "DEPOSIT", "amount": 9.88, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 25, "account_id": 25, "transaction_date": "2024-01-25", "transaction_type": "WITHDRAWAL", "amount": -10.25, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 26, "account_id": 26, "transaction_date": "2024-01-26", "transaction_type": "DEPOSIT", "amount": 10.62, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 27, "account_id": 27, "transaction_date": "2024-01-27", "transaction_type": "DEPOSIT", "amount": 10.99, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 28, "account_id": 28, "transaction_date": "2024-01-28", "transaction_type": "WITHDRAWAL", "amount": -11.36, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 29, "account_id": 29, "transaction_date": "2024-01-29", "transaction_type": "DEPOSIT", "amount": 11.73, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 30, "account_id": 30, "transaction_date": "2024-01-30", "transaction_type": "DEPOSIT", "amount": 12.1, "currency": "USD", "status": "POSTED"}

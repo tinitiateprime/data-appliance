@@ -1,0 +1,10 @@
+{"transaction_id": 4751, "account_id": 4751, "transaction_date": "2024-12-30", "transaction_type": "DEPOSIT", "amount": 1758.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4752, "account_id": 4752, "transaction_date": "2024-12-31", "transaction_type": "DEPOSIT", "amount": 1759.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4753, "account_id": 4753, "transaction_date": "2025-01-01", "transaction_type": "WITHDRAWAL", "amount": -1759.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4754, "account_id": 4754, "transaction_date": "2025-01-02", "transaction_type": "DEPOSIT", "amount": 1759.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4755, "account_id": 4755, "transaction_date": "2025-01-03", "transaction_type": "DEPOSIT", "amount": 1760.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4756, "account_id": 4756, "transaction_date": "2025-01-04", "transaction_type": "WITHDRAWAL", "amount": -1760.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4757, "account_id": 4757, "transaction_date": "2025-01-05", "transaction_type": "DEPOSIT", "amount": 1761.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4758, "account_id": 4758, "transaction_date": "2025-01-06", "transaction_type": "DEPOSIT", "amount": 1761.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4759, "account_id": 4759, "transaction_date": "2025-01-07", "transaction_type": "WITHDRAWAL", "amount": -1761.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4760, "account_id": 4760, "transaction_date": "2025-01-08", "transaction_type": "DEPOSIT", "amount": 1762.2, "currency": "USD", "status": "POSTED"}

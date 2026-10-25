@@ -1,0 +1,10 @@
+{"transaction_id": 1971, "account_id": 1971, "transaction_date": "2025-05-23", "transaction_type": "DEPOSIT", "amount": 730.27, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1972, "account_id": 1972, "transaction_date": "2025-05-24", "transaction_type": "WITHDRAWAL", "amount": -730.64, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1973, "account_id": 1973, "transaction_date": "2025-05-25", "transaction_type": "DEPOSIT", "amount": 731.01, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1974, "account_id": 1974, "transaction_date": "2025-05-26", "transaction_type": "DEPOSIT", "amount": 731.38, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1975, "account_id": 1975, "transaction_date": "2025-05-27", "transaction_type": "WITHDRAWAL", "amount": -731.75, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1976, "account_id": 1976, "transaction_date": "2025-05-28", "transaction_type": "DEPOSIT", "amount": 732.12, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1977, "account_id": 1977, "transaction_date": "2025-05-29", "transaction_type": "DEPOSIT", "amount": 732.49, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1978, "account_id": 1978, "transaction_date": "2025-05-30", "transaction_type": "WITHDRAWAL", "amount": -732.86, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1979, "account_id": 1979, "transaction_date": "2025-05-31", "transaction_type": "DEPOSIT", "amount": 733.23, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1980, "account_id": 1980, "transaction_date": "2025-06-01", "transaction_type": "DEPOSIT", "amount": 733.6, "currency": "USD", "status": "POSTED"}

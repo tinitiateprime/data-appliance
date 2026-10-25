@@ -1,0 +1,10 @@
+{"transaction_id": 1951, "account_id": 1951, "transaction_date": "2025-05-03", "transaction_type": "WITHDRAWAL", "amount": -722.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1952, "account_id": 1952, "transaction_date": "2025-05-04", "transaction_type": "DEPOSIT", "amount": 723.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1953, "account_id": 1953, "transaction_date": "2025-05-05", "transaction_type": "DEPOSIT", "amount": 723.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1954, "account_id": 1954, "transaction_date": "2025-05-06", "transaction_type": "WITHDRAWAL", "amount": -723.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1955, "account_id": 1955, "transaction_date": "2025-05-07", "transaction_type": "DEPOSIT", "amount": 724.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1956, "account_id": 1956, "transaction_date": "2025-05-08", "transaction_type": "DEPOSIT", "amount": 724.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1957, "account_id": 1957, "transaction_date": "2025-05-09", "transaction_type": "WITHDRAWAL", "amount": -725.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1958, "account_id": 1958, "transaction_date": "2025-05-10", "transaction_type": "DEPOSIT", "amount": 725.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1959, "account_id": 1959, "transaction_date": "2025-05-11", "transaction_type": "DEPOSIT", "amount": 725.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1960, "account_id": 1960, "transaction_date": "2025-05-12", "transaction_type": "WITHDRAWAL", "amount": -726.2, "currency": "USD", "status": "POSTED"}

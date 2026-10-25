@@ -1,0 +1,10 @@
+{"transaction_id": 2201, "account_id": 2201, "transaction_date": "2024-01-08", "transaction_type": "DEPOSIT", "amount": 815.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2202, "account_id": 2202, "transaction_date": "2024-01-09", "transaction_type": "DEPOSIT", "amount": 815.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2203, "account_id": 2203, "transaction_date": "2024-01-10", "transaction_type": "WITHDRAWAL", "amount": -816.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2204, "account_id": 2204, "transaction_date": "2024-01-11", "transaction_type": "DEPOSIT", "amount": 816.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2205, "account_id": 2205, "transaction_date": "2024-01-12", "transaction_type": "DEPOSIT", "amount": 816.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2206, "account_id": 2206, "transaction_date": "2024-01-13", "transaction_type": "WITHDRAWAL", "amount": -817.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2207, "account_id": 2207, "transaction_date": "2024-01-14", "transaction_type": "DEPOSIT", "amount": 817.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2208, "account_id": 2208, "transaction_date": "2024-01-15", "transaction_type": "DEPOSIT", "amount": 817.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2209, "account_id": 2209, "transaction_date": "2024-01-16", "transaction_type": "WITHDRAWAL", "amount": -818.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2210, "account_id": 2210, "transaction_date": "2024-01-17", "transaction_type": "DEPOSIT", "amount": 818.7, "currency": "USD", "status": "POSTED"}

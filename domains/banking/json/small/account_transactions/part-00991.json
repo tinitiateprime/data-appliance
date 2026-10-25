@@ -1,0 +1,10 @@
+{"transaction_id": 9911, "account_id": 9911, "transaction_date": "2025-02-11", "transaction_type": "DEPOSIT", "amount": 1668.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9912, "account_id": 9912, "transaction_date": "2025-02-12", "transaction_type": "DEPOSIT", "amount": 1668.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9913, "account_id": 9913, "transaction_date": "2025-02-13", "transaction_type": "WITHDRAWAL", "amount": -1668.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9914, "account_id": 9914, "transaction_date": "2025-02-14", "transaction_type": "DEPOSIT", "amount": 1669.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9915, "account_id": 9915, "transaction_date": "2025-02-15", "transaction_type": "DEPOSIT", "amount": 1669.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9916, "account_id": 9916, "transaction_date": "2025-02-16", "transaction_type": "WITHDRAWAL", "amount": -1669.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9917, "account_id": 9917, "transaction_date": "2025-02-17", "transaction_type": "DEPOSIT", "amount": 1670.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9918, "account_id": 9918, "transaction_date": "2025-02-18", "transaction_type": "DEPOSIT", "amount": 1670.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9919, "account_id": 9919, "transaction_date": "2025-02-19", "transaction_type": "WITHDRAWAL", "amount": -1671.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9920, "account_id": 9920, "transaction_date": "2025-02-20", "transaction_type": "DEPOSIT", "amount": 1671.4, "currency": "USD", "status": "POSTED"}

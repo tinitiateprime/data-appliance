@@ -1,0 +1,10 @@
+{"transaction_id": 8011, "account_id": 8011, "transaction_date": "2025-12-01", "transaction_type": "WITHDRAWAL", "amount": -965.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8012, "account_id": 8012, "transaction_date": "2025-12-02", "transaction_type": "DEPOSIT", "amount": 965.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8013, "account_id": 8013, "transaction_date": "2025-12-03", "transaction_type": "DEPOSIT", "amount": 965.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8014, "account_id": 8014, "transaction_date": "2025-12-04", "transaction_type": "WITHDRAWAL", "amount": -966.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8015, "account_id": 8015, "transaction_date": "2025-12-05", "transaction_type": "DEPOSIT", "amount": 966.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8016, "account_id": 8016, "transaction_date": "2025-12-06", "transaction_type": "DEPOSIT", "amount": 966.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8017, "account_id": 8017, "transaction_date": "2025-12-07", "transaction_type": "WITHDRAWAL", "amount": -967.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8018, "account_id": 8018, "transaction_date": "2025-12-08", "transaction_type": "DEPOSIT", "amount": 967.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8019, "account_id": 8019, "transaction_date": "2025-12-09", "transaction_type": "DEPOSIT", "amount": 968.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8020, "account_id": 8020, "transaction_date": "2025-12-10", "transaction_type": "WITHDRAWAL", "amount": -968.4, "currency": "USD", "status": "POSTED"}

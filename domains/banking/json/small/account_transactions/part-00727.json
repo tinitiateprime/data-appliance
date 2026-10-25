@@ -1,0 +1,10 @@
+{"transaction_id": 7271, "account_id": 7271, "transaction_date": "2025-11-22", "transaction_type": "DEPOSIT", "amount": 691.27, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7272, "account_id": 7272, "transaction_date": "2025-11-23", "transaction_type": "DEPOSIT", "amount": 691.64, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7273, "account_id": 7273, "transaction_date": "2025-11-24", "transaction_type": "WITHDRAWAL", "amount": -692.01, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7274, "account_id": 7274, "transaction_date": "2025-11-25", "transaction_type": "DEPOSIT", "amount": 692.38, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7275, "account_id": 7275, "transaction_date": "2025-11-26", "transaction_type": "DEPOSIT", "amount": 692.75, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7276, "account_id": 7276, "transaction_date": "2025-11-27", "transaction_type": "WITHDRAWAL", "amount": -693.12, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7277, "account_id": 7277, "transaction_date": "2025-11-28", "transaction_type": "DEPOSIT", "amount": 693.49, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7278, "account_id": 7278, "transaction_date": "2025-11-29", "transaction_type": "DEPOSIT", "amount": 693.86, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7279, "account_id": 7279, "transaction_date": "2025-11-30", "transaction_type": "WITHDRAWAL", "amount": -694.23, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 7280, "account_id": 7280, "transaction_date": "2025-12-01", "transaction_type": "DEPOSIT", "amount": 694.6, "currency": "USD", "status": "POSTED"}

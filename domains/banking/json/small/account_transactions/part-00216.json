@@ -1,0 +1,10 @@
+{"transaction_id": 2161, "account_id": 2161, "transaction_date": "2025-11-29", "transaction_type": "WITHDRAWAL", "amount": -800.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2162, "account_id": 2162, "transaction_date": "2025-11-30", "transaction_type": "DEPOSIT", "amount": 800.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2163, "account_id": 2163, "transaction_date": "2025-12-01", "transaction_type": "DEPOSIT", "amount": 801.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2164, "account_id": 2164, "transaction_date": "2025-12-02", "transaction_type": "WITHDRAWAL", "amount": -801.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2165, "account_id": 2165, "transaction_date": "2025-12-03", "transaction_type": "DEPOSIT", "amount": 802.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2166, "account_id": 2166, "transaction_date": "2025-12-04", "transaction_type": "DEPOSIT", "amount": 802.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2167, "account_id": 2167, "transaction_date": "2025-12-05", "transaction_type": "WITHDRAWAL", "amount": -802.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2168, "account_id": 2168, "transaction_date": "2025-12-06", "transaction_type": "DEPOSIT", "amount": 803.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2169, "account_id": 2169, "transaction_date": "2025-12-07", "transaction_type": "DEPOSIT", "amount": 803.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2170, "account_id": 2170, "transaction_date": "2025-12-08", "transaction_type": "WITHDRAWAL", "amount": -803.9, "currency": "USD", "status": "POSTED"}

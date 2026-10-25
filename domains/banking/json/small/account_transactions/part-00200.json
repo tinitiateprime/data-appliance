@@ -1,0 +1,10 @@
+{"transaction_id": 2001, "account_id": 2001, "transaction_date": "2025-06-22", "transaction_type": "DEPOSIT", "amount": 741.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2002, "account_id": 2002, "transaction_date": "2025-06-23", "transaction_type": "WITHDRAWAL", "amount": -741.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2003, "account_id": 2003, "transaction_date": "2025-06-24", "transaction_type": "DEPOSIT", "amount": 742.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2004, "account_id": 2004, "transaction_date": "2025-06-25", "transaction_type": "DEPOSIT", "amount": 742.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2005, "account_id": 2005, "transaction_date": "2025-06-26", "transaction_type": "WITHDRAWAL", "amount": -742.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2006, "account_id": 2006, "transaction_date": "2025-06-27", "transaction_type": "DEPOSIT", "amount": 743.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2007, "account_id": 2007, "transaction_date": "2025-06-28", "transaction_type": "DEPOSIT", "amount": 743.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2008, "account_id": 2008, "transaction_date": "2025-06-29", "transaction_type": "WITHDRAWAL", "amount": -743.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2009, "account_id": 2009, "transaction_date": "2025-06-30", "transaction_type": "DEPOSIT", "amount": 744.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2010, "account_id": 2010, "transaction_date": "2025-07-01", "transaction_type": "DEPOSIT", "amount": 744.7, "currency": "USD", "status": "POSTED"}

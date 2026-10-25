@@ -1,0 +1,10 @@
+{"transaction_id": 2601, "account_id": 2601, "transaction_date": "2025-02-11", "transaction_type": "DEPOSIT", "amount": 963.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2602, "account_id": 2602, "transaction_date": "2025-02-12", "transaction_type": "WITHDRAWAL", "amount": -963.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2603, "account_id": 2603, "transaction_date": "2025-02-13", "transaction_type": "DEPOSIT", "amount": 964.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2604, "account_id": 2604, "transaction_date": "2025-02-14", "transaction_type": "DEPOSIT", "amount": 964.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2605, "account_id": 2605, "transaction_date": "2025-02-15", "transaction_type": "WITHDRAWAL", "amount": -964.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2606, "account_id": 2606, "transaction_date": "2025-02-16", "transaction_type": "DEPOSIT", "amount": 965.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2607, "account_id": 2607, "transaction_date": "2025-02-17", "transaction_type": "DEPOSIT", "amount": 965.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2608, "account_id": 2608, "transaction_date": "2025-02-18", "transaction_type": "WITHDRAWAL", "amount": -965.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2609, "account_id": 2609, "transaction_date": "2025-02-19", "transaction_type": "DEPOSIT", "amount": 966.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2610, "account_id": 2610, "transaction_date": "2025-02-20", "transaction_type": "DEPOSIT", "amount": 966.7, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 1571, "account_id": 1571, "transaction_date": "2024-04-18", "transaction_type": "DEPOSIT", "amount": 582.27, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1572, "account_id": 1572, "transaction_date": "2024-04-19", "transaction_type": "DEPOSIT", "amount": 582.64, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1573, "account_id": 1573, "transaction_date": "2024-04-20", "transaction_type": "WITHDRAWAL", "amount": -583.01, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1574, "account_id": 1574, "transaction_date": "2024-04-21", "transaction_type": "DEPOSIT", "amount": 583.38, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1575, "account_id": 1575, "transaction_date": "2024-04-22", "transaction_type": "DEPOSIT", "amount": 583.75, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1576, "account_id": 1576, "transaction_date": "2024-04-23", "transaction_type": "WITHDRAWAL", "amount": -584.12, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1577, "account_id": 1577, "transaction_date": "2024-04-24", "transaction_type": "DEPOSIT", "amount": 584.49, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1578, "account_id": 1578, "transaction_date": "2024-04-25", "transaction_type": "DEPOSIT", "amount": 584.86, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1579, "account_id": 1579, "transaction_date": "2024-04-26", "transaction_type": "WITHDRAWAL", "amount": -585.23, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1580, "account_id": 1580, "transaction_date": "2024-04-27", "transaction_type": "DEPOSIT", "amount": 585.6, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 8741, "account_id": 8741, "transaction_date": "2025-11-30", "transaction_type": "DEPOSIT", "amount": 1235.17, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8742, "account_id": 8742, "transaction_date": "2025-12-01", "transaction_type": "DEPOSIT", "amount": 1235.54, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8743, "account_id": 8743, "transaction_date": "2025-12-02", "transaction_type": "WITHDRAWAL", "amount": -1235.91, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8744, "account_id": 8744, "transaction_date": "2025-12-03", "transaction_type": "DEPOSIT", "amount": 1236.28, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8745, "account_id": 8745, "transaction_date": "2025-12-04", "transaction_type": "DEPOSIT", "amount": 1236.65, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8746, "account_id": 8746, "transaction_date": "2025-12-05", "transaction_type": "WITHDRAWAL", "amount": -1237.02, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8747, "account_id": 8747, "transaction_date": "2025-12-06", "transaction_type": "DEPOSIT", "amount": 1237.39, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8748, "account_id": 8748, "transaction_date": "2025-12-07", "transaction_type": "DEPOSIT", "amount": 1237.76, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8749, "account_id": 8749, "transaction_date": "2025-12-08", "transaction_type": "WITHDRAWAL", "amount": -1238.13, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 8750, "account_id": 8750, "transaction_date": "2025-12-09", "transaction_type": "DEPOSIT", "amount": 1238.5, "currency": "USD", "status": "POSTED"}

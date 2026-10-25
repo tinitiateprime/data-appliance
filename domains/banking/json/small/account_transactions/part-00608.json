@@ -1,0 +1,10 @@
+{"transaction_id": 6081, "account_id": 6081, "transaction_date": "2024-08-20", "transaction_type": "DEPOSIT", "amount": 250.97, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6082, "account_id": 6082, "transaction_date": "2024-08-21", "transaction_type": "WITHDRAWAL", "amount": -251.34, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6083, "account_id": 6083, "transaction_date": "2024-08-22", "transaction_type": "DEPOSIT", "amount": 251.71, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6084, "account_id": 6084, "transaction_date": "2024-08-23", "transaction_type": "DEPOSIT", "amount": 252.08, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6085, "account_id": 6085, "transaction_date": "2024-08-24", "transaction_type": "WITHDRAWAL", "amount": -252.45, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6086, "account_id": 6086, "transaction_date": "2024-08-25", "transaction_type": "DEPOSIT", "amount": 252.82, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6087, "account_id": 6087, "transaction_date": "2024-08-26", "transaction_type": "DEPOSIT", "amount": 253.19, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6088, "account_id": 6088, "transaction_date": "2024-08-27", "transaction_type": "WITHDRAWAL", "amount": -253.56, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6089, "account_id": 6089, "transaction_date": "2024-08-28", "transaction_type": "DEPOSIT", "amount": 253.93, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6090, "account_id": 6090, "transaction_date": "2024-08-29", "transaction_type": "DEPOSIT", "amount": 254.3, "currency": "USD", "status": "POSTED"}

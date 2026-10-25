@@ -1,0 +1,10 @@
+{"transaction_id": 6501, "account_id": 6501, "transaction_date": "2025-10-14", "transaction_type": "DEPOSIT", "amount": 406.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6502, "account_id": 6502, "transaction_date": "2025-10-15", "transaction_type": "WITHDRAWAL", "amount": -406.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6503, "account_id": 6503, "transaction_date": "2025-10-16", "transaction_type": "DEPOSIT", "amount": 407.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6504, "account_id": 6504, "transaction_date": "2025-10-17", "transaction_type": "DEPOSIT", "amount": 407.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6505, "account_id": 6505, "transaction_date": "2025-10-18", "transaction_type": "WITHDRAWAL", "amount": -407.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6506, "account_id": 6506, "transaction_date": "2025-10-19", "transaction_type": "DEPOSIT", "amount": 408.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6507, "account_id": 6507, "transaction_date": "2025-10-20", "transaction_type": "DEPOSIT", "amount": 408.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6508, "account_id": 6508, "transaction_date": "2025-10-21", "transaction_type": "WITHDRAWAL", "amount": -408.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6509, "account_id": 6509, "transaction_date": "2025-10-22", "transaction_type": "DEPOSIT", "amount": 409.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6510, "account_id": 6510, "transaction_date": "2025-10-23", "transaction_type": "DEPOSIT", "amount": 409.7, "currency": "USD", "status": "POSTED"}

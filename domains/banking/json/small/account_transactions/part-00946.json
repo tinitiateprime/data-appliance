@@ -1,0 +1,10 @@
+{"transaction_id": 9461, "account_id": 9461, "transaction_date": "2025-11-19", "transaction_type": "DEPOSIT", "amount": 1501.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9462, "account_id": 9462, "transaction_date": "2025-11-20", "transaction_type": "DEPOSIT", "amount": 1501.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9463, "account_id": 9463, "transaction_date": "2025-11-21", "transaction_type": "WITHDRAWAL", "amount": -1502.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9464, "account_id": 9464, "transaction_date": "2025-11-22", "transaction_type": "DEPOSIT", "amount": 1502.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9465, "account_id": 9465, "transaction_date": "2025-11-23", "transaction_type": "DEPOSIT", "amount": 1503.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9466, "account_id": 9466, "transaction_date": "2025-11-24", "transaction_type": "WITHDRAWAL", "amount": -1503.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9467, "account_id": 9467, "transaction_date": "2025-11-25", "transaction_type": "DEPOSIT", "amount": 1503.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9468, "account_id": 9468, "transaction_date": "2025-11-26", "transaction_type": "DEPOSIT", "amount": 1504.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9469, "account_id": 9469, "transaction_date": "2025-11-27", "transaction_type": "WITHDRAWAL", "amount": -1504.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 9470, "account_id": 9470, "transaction_date": "2025-11-28", "transaction_type": "DEPOSIT", "amount": 1504.9, "currency": "USD", "status": "POSTED"}

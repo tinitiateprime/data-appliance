@@ -1,0 +1,10 @@
+{"transaction_id": 1781, "account_id": 1781, "transaction_date": "2024-11-14", "transaction_type": "DEPOSIT", "amount": 659.97, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1782, "account_id": 1782, "transaction_date": "2024-11-15", "transaction_type": "DEPOSIT", "amount": 660.34, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1783, "account_id": 1783, "transaction_date": "2024-11-16", "transaction_type": "WITHDRAWAL", "amount": -660.71, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1784, "account_id": 1784, "transaction_date": "2024-11-17", "transaction_type": "DEPOSIT", "amount": 661.08, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1785, "account_id": 1785, "transaction_date": "2024-11-18", "transaction_type": "DEPOSIT", "amount": 661.45, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1786, "account_id": 1786, "transaction_date": "2024-11-19", "transaction_type": "WITHDRAWAL", "amount": -661.82, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1787, "account_id": 1787, "transaction_date": "2024-11-20", "transaction_type": "DEPOSIT", "amount": 662.19, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1788, "account_id": 1788, "transaction_date": "2024-11-21", "transaction_type": "DEPOSIT", "amount": 662.56, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1789, "account_id": 1789, "transaction_date": "2024-11-22", "transaction_type": "WITHDRAWAL", "amount": -662.93, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 1790, "account_id": 1790, "transaction_date": "2024-11-23", "transaction_type": "DEPOSIT", "amount": 663.3, "currency": "USD", "status": "POSTED"}

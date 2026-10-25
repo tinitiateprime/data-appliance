@@ -1,0 +1,10 @@
+{"transaction_id": 2551, "account_id": 2551, "transaction_date": "2024-12-23", "transaction_type": "WITHDRAWAL", "amount": -944.87, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2552, "account_id": 2552, "transaction_date": "2024-12-24", "transaction_type": "DEPOSIT", "amount": 945.24, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2553, "account_id": 2553, "transaction_date": "2024-12-25", "transaction_type": "DEPOSIT", "amount": 945.61, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2554, "account_id": 2554, "transaction_date": "2024-12-26", "transaction_type": "WITHDRAWAL", "amount": -945.98, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2555, "account_id": 2555, "transaction_date": "2024-12-27", "transaction_type": "DEPOSIT", "amount": 946.35, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2556, "account_id": 2556, "transaction_date": "2024-12-28", "transaction_type": "DEPOSIT", "amount": 946.72, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2557, "account_id": 2557, "transaction_date": "2024-12-29", "transaction_type": "WITHDRAWAL", "amount": -947.09, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2558, "account_id": 2558, "transaction_date": "2024-12-30", "transaction_type": "DEPOSIT", "amount": 947.46, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2559, "account_id": 2559, "transaction_date": "2024-12-31", "transaction_type": "DEPOSIT", "amount": 947.83, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 2560, "account_id": 2560, "transaction_date": "2025-01-01", "transaction_type": "WITHDRAWAL", "amount": -948.2, "currency": "USD", "status": "POSTED"}

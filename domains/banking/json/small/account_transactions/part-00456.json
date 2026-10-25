@@ -1,0 +1,10 @@
+{"transaction_id": 4561, "account_id": 4561, "transaction_date": "2024-06-23", "transaction_type": "WITHDRAWAL", "amount": -1688.57, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4562, "account_id": 4562, "transaction_date": "2024-06-24", "transaction_type": "DEPOSIT", "amount": 1688.94, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4563, "account_id": 4563, "transaction_date": "2024-06-25", "transaction_type": "DEPOSIT", "amount": 1689.31, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4564, "account_id": 4564, "transaction_date": "2024-06-26", "transaction_type": "WITHDRAWAL", "amount": -1689.68, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4565, "account_id": 4565, "transaction_date": "2024-06-27", "transaction_type": "DEPOSIT", "amount": 1690.05, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4566, "account_id": 4566, "transaction_date": "2024-06-28", "transaction_type": "DEPOSIT", "amount": 1690.42, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4567, "account_id": 4567, "transaction_date": "2024-06-29", "transaction_type": "WITHDRAWAL", "amount": -1690.79, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4568, "account_id": 4568, "transaction_date": "2024-06-30", "transaction_type": "DEPOSIT", "amount": 1691.16, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4569, "account_id": 4569, "transaction_date": "2024-07-01", "transaction_type": "DEPOSIT", "amount": 1691.53, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 4570, "account_id": 4570, "transaction_date": "2024-07-02", "transaction_type": "WITHDRAWAL", "amount": -1691.9, "currency": "USD", "status": "POSTED"}

@@ -1,0 +1,10 @@
+{"transaction_id": 5411, "account_id": 5411, "transaction_date": "2024-10-20", "transaction_type": "DEPOSIT", "amount": 3.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5412, "account_id": 5412, "transaction_date": "2024-10-21", "transaction_type": "DEPOSIT", "amount": 3.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5413, "account_id": 5413, "transaction_date": "2024-10-22", "transaction_type": "WITHDRAWAL", "amount": -3.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5414, "account_id": 5414, "transaction_date": "2024-10-23", "transaction_type": "DEPOSIT", "amount": 4.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5415, "account_id": 5415, "transaction_date": "2024-10-24", "transaction_type": "DEPOSIT", "amount": 4.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5416, "account_id": 5416, "transaction_date": "2024-10-25", "transaction_type": "WITHDRAWAL", "amount": -4.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5417, "account_id": 5417, "transaction_date": "2024-10-26", "transaction_type": "DEPOSIT", "amount": 5.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5418, "account_id": 5418, "transaction_date": "2024-10-27", "transaction_type": "DEPOSIT", "amount": 5.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5419, "account_id": 5419, "transaction_date": "2024-10-28", "transaction_type": "WITHDRAWAL", "amount": -6.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 5420, "account_id": 5420, "transaction_date": "2024-10-29", "transaction_type": "DEPOSIT", "amount": 6.4, "currency": "USD", "status": "POSTED"}

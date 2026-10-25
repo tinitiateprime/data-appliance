@@ -1,0 +1,10 @@
+{"transaction_id": 6311, "account_id": 6311, "transaction_date": "2025-04-07", "transaction_type": "DEPOSIT", "amount": 336.07, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6312, "account_id": 6312, "transaction_date": "2025-04-08", "transaction_type": "DEPOSIT", "amount": 336.44, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6313, "account_id": 6313, "transaction_date": "2025-04-09", "transaction_type": "WITHDRAWAL", "amount": -336.81, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6314, "account_id": 6314, "transaction_date": "2025-04-10", "transaction_type": "DEPOSIT", "amount": 337.18, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6315, "account_id": 6315, "transaction_date": "2025-04-11", "transaction_type": "DEPOSIT", "amount": 337.55, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6316, "account_id": 6316, "transaction_date": "2025-04-12", "transaction_type": "WITHDRAWAL", "amount": -337.92, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6317, "account_id": 6317, "transaction_date": "2025-04-13", "transaction_type": "DEPOSIT", "amount": 338.29, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6318, "account_id": 6318, "transaction_date": "2025-04-14", "transaction_type": "DEPOSIT", "amount": 338.66, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6319, "account_id": 6319, "transaction_date": "2025-04-15", "transaction_type": "WITHDRAWAL", "amount": -339.03, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 6320, "account_id": 6320, "transaction_date": "2025-04-16", "transaction_type": "DEPOSIT", "amount": 339.4, "currency": "USD", "status": "POSTED"}

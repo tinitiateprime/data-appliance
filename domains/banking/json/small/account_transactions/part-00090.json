@@ -1,0 +1,10 @@
+{"transaction_id": 901, "account_id": 901, "transaction_date": "2024-06-18", "transaction_type": "WITHDRAWAL", "amount": -334.37, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 902, "account_id": 902, "transaction_date": "2024-06-19", "transaction_type": "DEPOSIT", "amount": 334.74, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 903, "account_id": 903, "transaction_date": "2024-06-20", "transaction_type": "DEPOSIT", "amount": 335.11, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 904, "account_id": 904, "transaction_date": "2024-06-21", "transaction_type": "WITHDRAWAL", "amount": -335.48, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 905, "account_id": 905, "transaction_date": "2024-06-22", "transaction_type": "DEPOSIT", "amount": 335.85, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 906, "account_id": 906, "transaction_date": "2024-06-23", "transaction_type": "DEPOSIT", "amount": 336.22, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 907, "account_id": 907, "transaction_date": "2024-06-24", "transaction_type": "WITHDRAWAL", "amount": -336.59, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 908, "account_id": 908, "transaction_date": "2024-06-25", "transaction_type": "DEPOSIT", "amount": 336.96, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 909, "account_id": 909, "transaction_date": "2024-06-26", "transaction_type": "DEPOSIT", "amount": 337.33, "currency": "USD", "status": "POSTED"}
+{"transaction_id": 910, "account_id": 910, "transaction_date": "2024-06-27", "transaction_type": "WITHDRAWAL", "amount": -337.7, "currency": "USD", "status": "POSTED"}
