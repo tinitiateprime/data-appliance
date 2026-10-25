@@ -1,0 +1,13 @@
+services:
+  runner:
+    build: .
+    env_file: .env
+    volumes:
+      - ../../../..:/workspace:ro
+      - spark-ivy:/root/.ivy2
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      SPARK_LOCAL_IP: 127.0.0.1
+volumes:
+  spark-ivy:

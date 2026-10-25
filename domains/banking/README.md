@@ -5,6 +5,9 @@ All **16 banking tables** have separate `large` and `small` file sets in CSV, ne
 To recreate the files, use the [Python generator scripts and run instructions](scripts/README.md).
 There is one generator per table, plus `generate_all_small.py` and `generate_all_large.py`.
 
+To load these files through Floci S3 into PostgreSQL, follow the
+[PySpark S3-to-PostgreSQL tutorial](pipelines/s3_to_postgres/README.md).
+
 | Layout | Files per table per format | Rows per file | Rows per table per format |
 |---|---:|---:|---:|
 | [large](large/) | 10 | 100,000 | 1,000,000 |

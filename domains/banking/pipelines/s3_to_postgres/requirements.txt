@@ -1,0 +1,4 @@
+pyspark==3.5.8
+pyarrow==25.0.1
+psycopg[binary]==3.3.6
+boto3==1.43.118
